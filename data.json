@@ -1,0 +1,2027 @@
+[
+  {
+    "nome": "Monkey D. Luffy",
+    "descricao": "Capitão dos Piratas do Chapéu de Palha, que comeu a Gomu Gomu no Mi, tornando-se um homem de borracha. Seu sonho é encontrar o One Piece e se tornar o Rei dos Piratas.",
+    "recompensa": "Beli 3.000.000.000",
+    "idade": "19 anos (pós-timeskip)",
+    "fruta": "Gomu Gomu no Mi",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Monkey_D._Luffy"
+  },
+  {
+    "nome": "Roronoa Zoro",
+    "descricao": "O combatente dos Piratas do Chapéu de Palha, um espadachim que luta usando três espadas (Santoryu). Seu sonho é se tornar o maior espadachim do mundo.",
+    "recompensa": "Beli 1.111.000.000",
+    "idade": "21 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Roronoa_Zoro"
+  },
+  {
+    "nome": "Nami",
+    "descricao": "A navegadora dos Piratas do Chapéu de Palha. Seu sonho é desenhar um mapa do mundo inteiro.",
+    "recompensa": "Beli 366.000.000",
+    "idade": "20 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nami"
+  },
+  {
+    "nome": "Usopp",
+    "descricao": "O atirador dos Piratas do Chapéu de Palha. Sonha em se tornar um bravo guerreiro do mar.",
+    "recompensa": "Beli 500.000.000",
+    "idade": "19 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Usopp"
+  },
+  {
+    "nome": "Sanji",
+    "descricao": "O cozinheiro dos Piratas do Chapéu de Palha. Luta usando apenas as pernas para proteger suas mãos de cozinheiro. Sonha em encontrar o All Blue.",
+    "recompensa": "Beli 1.032.000.000",
+    "idade": "21 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sanji"
+  },
+  {
+    "nome": "Tony Tony Chopper",
+    "descricao": "O médico dos Piratas do Chapéu de Palha, uma rena que comeu a Hito Hito no Mi e ganhou a habilidade de se transformar em humano. Sonha em curar todas as doenças.",
+    "recompensa": "Beli 1.000",
+    "idade": "17 anos (em anos de rena, pós-timeskip)",
+    "fruta": "Hito Hito no Mi",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tony_Tony_Chopper"
+  },
+  {
+    "nome": "Nico Robin",
+    "descricao": "A arqueóloga dos Piratas do Chapéu de Palha. Comeu a Hana Hana no Mi. É a única pessoa viva que pode ler os Poneglyphs e sonha em descobrir a verdadeira história.",
+    "recompensa": "Beli 930.000.000",
+    "idade": "30 anos (pós-timeskip)",
+    "fruta": "Hana Hana no Mi",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nico_Robin"
+  },
+  {
+    "nome": "Franky",
+    "descricao": "O carpinteiro dos Piratas do Chapéu de Palha, um ciborgue. Construiu o Thousand Sunny e sonha em criar e viajar em um navio que possa dar a volta ao mundo.",
+    "recompensa": "Beli 394.000.000",
+    "idade": "36 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Franky"
+  },
+  {
+    "nome": "Brook",
+    "descricao": "O músico dos Piratas do Chapéu de Palha, um esqueleto vivo que comeu a Yomi Yomi no Mi. Sonha em reencontrar sua amiga baleia, Laboon.",
+    "recompensa": "Beli 383.000.000",
+    "idade": "90 anos (pós-timeskip)",
+    "fruta": "Yomi Yomi no Mi",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Brook"
+  },
+  {
+    "nome": "Jinbe",
+    "descricao": "O timoneiro dos Piratas do Chapéu de Palha, um homem-peixe e mestre em karatê homem-peixe. Sonha com a coexistência pacífica entre humanos e homens-peixe.",
+    "recompensa": "Beli 1.100.000.000",
+    "idade": "46 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jinbe"
+  },
+  {
+    "nome": "Portgas D. Ace",
+    "descricao": "Irmão de juramento de Luffy e Sabo, e filho do Rei dos Piratas, Gol D. Roger. Foi o comandante da 2ª divisão dos Piratas do Barba Branca e usuário da Mera Mera no Mi.",
+    "recompensa": "Beli 550.000.000",
+    "idade": "20 anos (na morte)",
+    "fruta": "Mera Mera no Mi",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Portgas_D._Ace"
+  },
+  {
+    "nome": "Sabo",
+    "descricao": "Irmão de juramento de Luffy e Ace, e o Chefe de Gabinete do Exército Revolucionário. Atualmente possui os poderes da Mera Mera no Mi.",
+    "recompensa": "Beli 602.000.000",
+    "idade": "22 anos (pós-timeskip)",
+    "fruta": "Mera Mera no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sabo"
+  },
+  {
+    "nome": "Trafalgar D. Water Law",
+    "descricao": "Capitão dos Piratas do Coração e um ex-Shichibukai. Usuário da Ope Ope no Mi, que lhe permite criar uma 'sala' onde ele tem controle total.",
+    "recompensa": "Beli 3.000.000.000",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Ope Ope no Mi",
+    "tripulacao": "Piratas do Coração",
+    "link": "https://onepiece.fandom.com/pt/wiki/Trafalgar_D._Water_Law"
+  },
+  {
+    "nome": "Eustass Kid",
+    "descricao": "Capitão dos Piratas Kid e um membro da Pior Geração. Usuário da Jiki Jiki no Mi, que lhe concede poderes de magnetismo.",
+    "recompensa": "Beli 3.000.000.000",
+    "idade": "23 anos (pós-timeskip)",
+    "fruta": "Jiki Jiki no Mi",
+    "tripulacao": "Piratas do Kid",
+    "link": "https://onepiece.fandom.com/pt/wiki/Eustass_Kid"
+  },
+  {
+    "nome": "Boa Hancock",
+    "descricao": "A 'Imperatriz Pirata' e capitã das Piratas Kuja, além de ser a única mulher entre os Shichibukai. Usuária da Mero Mero no Mi.",
+    "recompensa": "Beli 1.659.000.000",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Mero Mero no Mi",
+    "tripulacao": "Piratas Kuja",
+    "link": "https://onepiece.fandom.com/pt/wiki/Boa_Hancock"
+  },
+  {
+    "nome": "Dracule Mihawk",
+    "descricao": "Conhecido como o 'Maior Espadachim do Mundo'. Um ex-Shichibukai que agora faz parte da Cross Guild. Possui a espada de grau supremo Yoru.",
+    "recompensa": "Beli 3.590.000.000",
+    "idade": "43 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Cross Guild",
+    "link": "https://onepiece.fandom.com/pt/wiki/Dracule_Mihawk"
+  },
+  {
+    "nome": "Shanks",
+    "descricao": "Capitão dos Piratas do Ruivo e um dos Quatro Imperadores (Yonkou). Foi quem inspirou Luffy a se tornar um pirata e lhe deu o chapéu de palha.",
+    "recompensa": "Beli 4.048.900.000",
+    "idade": "39 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shanks"
+  },
+  {
+    "nome": "Marshall D. Teach (Barba Negra)",
+    "descricao": "Capitão dos Piratas do Barba Negra e um dos Quatro Imperadores. É a única pessoa conhecida a ter os poderes de duas Akuma no Mi: a Yami Yami no Mi e a Gura Gura no Mi.",
+    "recompensa": "Beli 3.996.000.000",
+    "idade": "40 anos (pós-timeskip)",
+    "fruta": "Yami Yami no Mi & Gura Gura no Mi",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Marshall_D._Teach"
+  },
+  {
+    "nome": "Gol D. Roger",
+    "descricao": "O lendário Rei dos Piratas que conquistou a Grand Line e encontrou o tesouro One Piece. Suas últimas palavras deram início à Grande Era dos Piratas.",
+    "recompensa": "Beli 5.564.800.000",
+    "idade": "53 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Roger",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gol_D._Roger"
+  },
+  {
+    "nome": "Silvers Rayleigh",
+    "descricao": "O 'Rei das Trevas', imediato do Rei dos Piratas, Gol D. Roger. Mentor de Luffy durante o timeskip, ensinando-o sobre Haki.",
+    "recompensa": "Desconhecida",
+    "idade": "78 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Roger",
+    "link": "https://onepiece.fandom.com/pt/wiki/Silvers_Rayleigh"
+  },
+  {
+    "nome": "Edward Newgate (Barba Branca)",
+    "descricao": "Capitão dos Piratas do Barba Branca e um dos Quatro Imperadores, conhecido como o 'Homem Mais Forte do Mundo'. Usuário da Gura Gura no Mi.",
+    "recompensa": "Beli 5.046.000.000",
+    "idade": "72 anos (na morte)",
+    "fruta": "Gura Gura no Mi",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Edward_Newgate"
+  },
+  {
+    "nome": "Marco",
+    "descricao": "Ex-comandante da 1ª divisão dos Piratas do Barba Branca. Usuário de uma Akuma no Mi Mítica do tipo Zoan, que lhe permite se transformar em uma fênix.",
+    "recompensa": "Beli 1.374.000.000",
+    "idade": "45 anos (pós-timeskip)",
+    "fruta": "Tori Tori no Mi, Modelo: Fênix",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Marco"
+  },
+  {
+    "nome": "Kaido",
+    "descricao": "Ex-governador-geral dos Piratas das Feras e um dos Quatro Imperadores. Conhecido como a 'Criatura Mais Forte do Mundo'. Usuário da Uo Uo no Mi, Modelo: Seiryu.",
+    "recompensa": "Beli 4.611.100.000",
+    "idade": "59 anos",
+    "fruta": "Uo Uo no Mi, Modelo: Seiryu",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kaido"
+  },
+  {
+    "nome": "Charlotte Linlin (Big Mom)",
+    "descricao": "Capitã dos Piratas da Big Mom e ex-membro dos Quatro Imperadores. Usuária da Soru Soru no Mi, que lhe permite manipular almas.",
+    "recompensa": "Beli 4.388.000.000",
+    "idade": "68 anos",
+    "fruta": "Soru Soru no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Linlin"
+  },
+  {
+    "nome": "Donquixote Doflamingo",
+    "descricao": "Capitão dos Piratas Donquixote e um ex-Shichibukai. Usuário da Ito Ito no Mi, que lhe permite criar e manipular fios.",
+    "recompensa": "Beli 340.000.000",
+    "idade": "41 anos (pós-timeskip)",
+    "fruta": "Ito Ito no Mi",
+    "tripulacao": "Piratas Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Donquixote_Doflamingo"
+  },
+  {
+    "nome": "Crocodile",
+    "descricao": "Ex-Shichibukai e líder da organização Baroque Works. Usuário da Suna Suna no Mi, que lhe permite controlar areia. Atualmente, um dos líderes da Cross Guild.",
+    "recompensa": "Beli 1.965.000.000",
+    "idade": "46 anos (pós-timeskip)",
+    "fruta": "Suna Suna no Mi",
+    "tripulacao": "Cross Guild",
+    "link": "https://onepiece.fandom.com/pt/wiki/Crocodile"
+  },
+  {
+    "nome": "Buggy",
+    "descricao": "Capitão dos Piratas do Buggy, ex-Shichibukai e atualmente um dos Quatro Imperadores e líder da Cross Guild. Usuário da Bara Bara no Mi.",
+    "recompensa": "Beli 3.189.000.000",
+    "idade": "39 anos (pós-timeskip)",
+    "fruta": "Bara Bara no Mi",
+    "tripulacao": "Cross Guild",
+    "link": "https://onepiece.fandom.com/pt/wiki/Buggy"
+  },
+  {
+    "nome": "Smoker",
+    "descricao": "Um Vice-Almirante da Marinha. Usuário da Moku Moku no Mi, uma Akuma no Mi do tipo Logia que lhe permite criar, controlar e se transformar em fumaça.",
+    "recompensa": "Nenhuma",
+    "idade": "36 anos (pós-timeskip)",
+    "fruta": "Moku Moku no Mi",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Smoker"
+  },
+  {
+    "nome": "Nefertari Vivi",
+    "descricao": "A princesa do Reino de Alabasta. Viajou com os Piratas do Chapéu de Palha por uma parte de sua jornada.",
+    "recompensa": "Nenhuma",
+    "idade": "18 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Alabasta",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nefertari_Vivi"
+  },
+  {
+    "nome": "Enel",
+    "descricao": "O ex-'Deus' de Skypiea. Usuário da Goro Goro no Mi, uma das mais poderosas Akuma no Mi do tipo Logia, que lhe concede controle sobre a eletricidade.",
+    "recompensa": "Beli 500.000.000 (Estimada)",
+    "idade": "39 anos (pós-timeskip)",
+    "fruta": "Goro Goro no Mi",
+    "tripulacao": "Exército de Enel",
+    "link": "https://onepiece.fandom.com/pt/wiki/Enel"
+  },
+  {
+    "nome": "Rob Lucci",
+    "descricao": "O membro mais forte da história da CP9, e atualmente membro da CP-0. Usuário da Neko Neko no Mi, Modelo: Leopardo, uma Akuma no Mi do tipo Zoan.",
+    "recompensa": "Nenhuma",
+    "idade": "30 anos (pós-timeskip)",
+    "fruta": "Neko Neko no Mi, Modelo: Leopardo",
+    "tripulacao": "CP-0",
+    "link": "https://onepiece.fandom.com/pt/wiki/Rob_Lucci"
+  },
+  {
+    "nome": "Sakazuki (Akainu)",
+    "descricao": "O atual Almirante de Frota da Marinha. Usuário da Magu Magu no Mi, uma Akuma no Mi do tipo Logia que lhe permite controlar e se transformar em magma.",
+    "recompensa": "Nenhuma",
+    "idade": "55 anos (pós-timeskip)",
+    "fruta": "Magu Magu no Mi",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sakazuki"
+  },
+  {
+    "nome": "Kuzan (Aokiji)",
+    "descricao": "Um ex-Almirante da Marinha que deixou a organização após perder a luta pelo posto de Almirante de Frota para Sakazuki. Usuário da Hie Hie no Mi.",
+    "recompensa": "Desconhecida",
+    "idade": "49 anos (pós-timeskip)",
+    "fruta": "Hie Hie no Mi",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kuzan"
+  },
+  {
+    "nome": "Borsalino (Kizaru)",
+    "descricao": "Um Almirante da Marinha. Usuário da Pika Pika no Mi, uma Akuma no Mi do tipo Logia que lhe permite criar, controlar e se transformar em luz.",
+    "recompensa": "Nenhuma",
+    "idade": "58 anos (pós-timeskip)",
+    "fruta": "Pika Pika no Mi",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Borsalino"
+  },
+  {
+    "nome": "Monkey D. Garp",
+    "descricao": "Um Vice-Almirante da Marinha e uma lenda da instituição, conhecido como 'Garp, o Herói'. Avô de Luffy e pai de Dragon.",
+    "recompensa": "Nenhuma",
+    "idade": "78 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Monkey_D._Garp"
+  },
+  {
+    "nome": "Sengoku",
+    "descricao": "Ex-Almirante de Frota da Marinha. Usuário da Hito Hito no Mi, Modelo: Daibutsu, uma Akuma no Mi Mítica do tipo Zoan que lhe permite se transformar em um Buda gigante.",
+    "recompensa": "Nenhuma",
+    "idade": "79 anos (pós-timeskip)",
+    "fruta": "Hito Hito no Mi, Modelo: Daibutsu",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sengoku"
+  },
+  {
+    "nome": "Coby",
+    "descricao": "Um Capitão da Marinha e membro da unidade especial SWORD. Foi um dos primeiros amigos de Luffy no mar.",
+    "recompensa": "Nenhuma",
+    "idade": "18 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha (SWORD)",
+    "link": "https://onepiece.fandom.com/pt/wiki/Coby"
+  },
+  {
+    "nome": "Perona",
+    "descricao": "A 'Princesa Fantasma', ex-comandante dos Piratas de Thriller Bark. Usuária da Horo Horo no Mi, que lhe permite criar fantasmas.",
+    "recompensa": "Desconhecida",
+    "idade": "25 anos (pós-timeskip)",
+    "fruta": "Horo Horo no Mi",
+    "tripulacao": "Piratas de Thriller Bark",
+    "link": "https://onepiece.fandom.com/pt/wiki/Perona"
+  },
+  {
+    "nome": "Bentham (Bon Clay)",
+    "descricao": "Um ex-agente da Baroque Works (Mr. 2) e um mestre do Okama Kenpo. Usuário da Mane Mane no Mi. Tornou-se um grande amigo dos Chapéus de Palha.",
+    "recompensa": "Beli 32.000.000",
+    "idade": "32 anos (pós-timeskip)",
+    "fruta": "Mane Mane no Mi",
+    "tripulacao": "Reino de Kamabakka",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bentham"
+  },
+  {
+    "nome": "Emporio Ivankov",
+    "descricao": "A 'Rainha' do Reino de Kamabakka e uma comandante do Exército Revolucionário. Usuária da Horu Horu no Mi, que lhe permite controlar hormônios.",
+    "recompensa": "Beli 100.000.000",
+    "idade": "53 anos (pós-timeskip)",
+    "fruta": "Horu Horu no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Emporio_Ivankov"
+  },
+  {
+    "nome": "Monkey D. Dragon",
+    "descricao": "O 'Pior Criminoso do Mundo', líder do Exército Revolucionário e pai de Monkey D. Luffy. É a maior ameaça ao Governo Mundial.",
+    "recompensa": "Desconhecida",
+    "idade": "55 anos (pós-timeskip)",
+    "fruta": "Desconhecida",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Monkey_D._Dragon"
+  },
+  {
+    "nome": "Bartholomew Kuma",
+    "descricao": "Ex-Shichibukai e ex-oficial do Exército Revolucionário. Usuário da Nikyu Nikyu no Mi. Foi transformado em uma arma humana, um Pacifista.",
+    "recompensa": "Beli 296.000.000",
+    "idade": "47 anos (pós-timeskip)",
+    "fruta": "Nikyu Nikyu no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bartholomew_Kuma"
+  },
+  {
+    "nome": "Gecko Moria",
+    "descricao": "Capitão dos Piratas de Thriller Bark e ex-Shichibukai. Usuário da Kage Kage no Mi, que lhe permite manifestar e controlar sombras.",
+    "recompensa": "Beli 320.000.000",
+    "idade": "50 anos (pós-timeskip)",
+    "fruta": "Kage Kage no Mi",
+    "tripulacao": "Piratas de Thriller Bark",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gecko_Moria"
+  },
+  {
+    "nome": "Shirahoshi",
+    "descricao": "A princesa sereia do Reino Ryugu na Ilha dos Homens-Peixe. É a atual forma da Arma Lendária Poseidon, com a habilidade de se comunicar e controlar os Reis dos Mares.",
+    "recompensa": "Nenhuma",
+    "idade": "16 anos",
+    "fruta": "Nenhuma (Arma Lendária Poseidon)",
+    "tripulacao": "Reino Ryugu",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shirahoshi"
+  },
+  {
+    "nome": "Charlotte Katakuri",
+    "descricao": "Um dos três Generais da Doçura dos Piratas da Big Mom. Usuário da Mochi Mochi no Mi e um mestre em Haki da Observação, capaz de ver um pouco no futuro.",
+    "recompensa": "Beli 1.057.000.000",
+    "idade": "48 anos",
+    "fruta": "Mochi Mochi no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Katakuri"
+  },
+  {
+    "nome": "King",
+    "descricao": "Um dos três All-Stars dos Piratas das Feras. Pertence à rara raça dos Lunarianos e é um combatente extremamente poderoso.",
+    "recompensa": "Beli 1.390.000.000",
+    "idade": "Desconhecida",
+    "fruta": "Ryu Ryu no Mi, Modelo: Pteranodonte",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/King"
+  },
+  {
+    "nome": "Yamato",
+    "descricao": "Filho de Kaido, que se autodenomina 'Kozuki Oden'. Usuário da Inu Inu no Mi, Modelo: Okuchi no Makami, uma Akuma no Mi Mítica do tipo Zoan.",
+    "recompensa": "Nenhuma",
+    "idade": "28 anos",
+    "fruta": "Inu Inu no Mi, Modelo: Okuchi no Makami",
+    "tripulacao": "Aliado dos Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Yamato"
+  },
+  {
+    "nome": "Kozuki Oden",
+    "descricao": "O lendário daimyo de Kuri em Wano. Viajou com os Piratas do Barba Branca e os Piratas de Roger, chegando à última ilha, Laugh Tale.",
+    "recompensa": "Nenhuma",
+    "idade": "39 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Clã Kozuki / Piratas do Roger",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kozuki_Oden"
+  },
+  {
+    "nome": "Jewelry Bonney",
+    "descricao": "Capitã dos Piratas Bonney e membro da Pior Geração. Usuária de uma Akuma no Mi que lhe permite manipular as idades de si mesma e de outros.",
+    "recompensa": "Beli 140.000.000",
+    "idade": "24 anos (estimada, pós-timeskip)",
+    "fruta": "Toshi Toshi no Mi",
+    "tripulacao": "Piratas Bonney",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jewelry_Bonney"
+  },
+  {
+    "nome": "Arlong",
+    "descricao": "Um homem-peixe tubarão-serra e capitão dos Piratas do Arlong. Ele foi o principal antagonista do Arco Arlong Park, acreditando na supremacia dos homens-peixe sobre os humanos.",
+    "recompensa": "Beli 20.000.000",
+    "idade": "41 anos (na derrota)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Arlong",
+    "link": "https://onepiece.fandom.com/pt/wiki/Arlong"
+  },
+  {
+    "nome": "Caesar Clown",
+    "descricao": "Um cientista e ex-colega de Vegapunk, especialista em armas de destruição em massa. Usuário da Gasu Gasu no Mi, que lhe permite criar, controlar e se transformar em gás.",
+    "recompensa": "Beli 300.000.000",
+    "idade": "Desconhecida",
+    "fruta": "Gasu Gasu no Mi",
+    "tripulacao": "Nenhuma",
+    "link": "https://onepiece.fandom.com/pt/wiki/Caesar_Clown"
+  },
+  {
+    "nome": "Bartolomeo",
+    "descricao": "Capitão do Barto Club e um grande fã dos Piratas do Chapéu de Palha. Usuário da Bari Bari no Mi, que lhe permite criar barreiras indestrutíveis.",
+    "recompensa": "Beli 200.000.000",
+    "idade": "24 anos (pós-timeskip)",
+    "fruta": "Bari Bari no Mi",
+    "tripulacao": "Barto Club",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bartolomeo"
+  },
+  {
+    "nome": "Cavendish",
+    "descricao": "O 'Príncipe Pirata' e capitão dos Belos Piratas. Possui uma personalidade alternativa e perigosa chamada Hakuba.",
+    "recompensa": "Beli 330.000.000",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Belos Piratas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Cavendish"
+  },
+  {
+    "nome": "Kozuki Momonosuke",
+    "descricao": "Filho do lendário daimyo Kozuki Oden e o atual shogun do País de Wano. Comeu uma Akuma no Mi artificial que o permite se transformar em um dragão.",
+    "recompensa": "Nenhuma",
+    "idade": "8 anos (biologicamente 28 após envelhecer)",
+    "fruta": "Akuma no Mi Artificial (Modelo Dragão)",
+    "tripulacao": "Clã Kozuki",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kozuki_Momonosuke"
+  },
+  {
+    "nome": "Bellamy",
+    "descricao": "O 'Hiena', ex-capitão dos Piratas do Bellamy. Usuário da Bane Bane no Mi, que lhe permite transformar seus membros em molas.",
+    "recompensa": "Beli 195.000.000",
+    "idade": "27 anos (pós-timeskip)",
+    "fruta": "Bane Bane no Mi",
+    "tripulacao": "Piratas do Bellamy",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bellamy"
+  },
+  {
+    "nome": "Issho (Fujitora)",
+    "descricao": "Um Almirante da Marinha que se juntou durante o timeskip. É cego e segue um ideal de 'Justiça Cega'. Usuário da Zushi Zushi no Mi, que lhe permite manipular a gravidade.",
+    "recompensa": "Nenhuma",
+    "idade": "54 anos (pós-timeskip)",
+    "fruta": "Zushi Zushi no Mi",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Issho"
+  },
+  {
+    "nome": "Vinsmoke Judge",
+    "descricao": "O rei do Reino Germa e comandante supremo de seu exército, o Germa 66. É o pai de Sanji e seus irmãos, que foram geneticamente modificados.",
+    "recompensa": "Nenhuma",
+    "idade": "56 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Germa 66",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vinsmoke_Judge"
+  },
+  {
+    "nome": "X Drake",
+    "descricao": "Um membro da Pior Geração e capitão dos Piratas do Drake. É um ex-Contra-Almirante da Marinha e atual membro da unidade secreta SWORD. Usuário de uma Akuma no Mi Ancestral do tipo Zoan, Modelo: Allosaurus.",
+    "recompensa": "Beli 222.000.000",
+    "idade": "33 anos (pós-timeskip)",
+    "fruta": "Ryu Ryu no Mi, Modelo: Allosaurus",
+    "tripulacao": "Marinha (SWORD)",
+    "link": "https://onepiece.fandom.com/pt/wiki/X_Drake"
+  },
+  {
+    "nome": "Basil Hawkins",
+    "descricao": "O 'Mago', capitão dos Piratas do Hawkins e membro da Pior Geração. Usuário da Wara Wara no Mi, que lhe permite criar e manipular palha, além de usar bonecos de vodu para redirecionar danos.",
+    "recompensa": "Beli 320.000.000",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Wara Wara no Mi",
+    "tripulacao": "Piratas do Hawkins",
+    "link": "https://onepiece.fandom.com/pt/wiki/Basil_Hawkins"
+  },
+  {
+    "nome": "Vegapunk",
+    "descricao": "O cientista genial que trabalha para o Governo Mundial. Suas invenções, como os Pacifistas e a descoberta dos segredos das Akuma no Mi, estão séculos à frente da tecnologia atual. Usuário da Nomi Nomi no Mi.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Nomi Nomi no Mi",
+    "tripulacao": "Governo Mundial",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vegapunk"
+  },
+  {
+    "nome": "Tashigi",
+    "descricao": "Uma Capitã da Marinha servindo sob o Vice-Almirante Smoker na base G-5. Uma espadachim habilidosa cujo objetivo é remover todas as espadas de grau Meito das mãos de criminosos.",
+    "recompensa": "Nenhuma",
+    "idade": "23 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tashigi"
+  },
+  {
+    "nome": "Sentomaru",
+    "descricao": "O guarda-costas do Dr. Vegapunk e comandante da Unidade Científica da Marinha. Ele se considera o 'homem com a maior defesa do mundo'.",
+    "recompensa": "Nenhuma",
+    "idade": "34 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sentomaru"
+  },
+  {
+    "nome": "Magellan",
+    "descricao": "O ex-diretor e atual vice-diretor da grande prisão submarina, Impel Down. Usuário da Doku Doku no Mi, que lhe permite produzir e controlar venenos mortais.",
+    "recompensa": "Nenhuma",
+    "idade": "47 anos (pós-timeskip)",
+    "fruta": "Doku Doku no Mi",
+    "tripulacao": "Impel Down",
+    "link": "https://onepiece.fandom.com/pt/wiki/Magellan"
+  },
+  {
+    "nome": "Shiryu",
+    "descricao": "Conhecido como 'Shiryu da Chuva', é o Capitão do Segundo Navio dos Piratas do Barba Negra. Ex-chefe dos guardas de Impel Down, ele é um espadachim mortal que comeu a Suke Suke no Mi.",
+    "recompensa": "Desconhecida",
+    "idade": "44 anos (pós-timeskip)",
+    "fruta": "Suke Suke no Mi",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shiryu"
+  },
+  {
+    "nome": "Koala",
+    "descricao": "Uma ex-escrava libertada por Fisher Tiger, que agora atua como Oficial do Exército Revolucionário e Mestra Substituta de Karatê Homem-Peixe.",
+    "recompensa": "Nenhuma",
+    "idade": "23 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Koala"
+  },
+  {
+    "nome": "Jesus Burgess",
+    "descricao": "O 'Campeão', timoneiro e capitão do Primeiro Navio dos Piratas do Barba Negra. Possui força física imensa e é usuário da Riki Riki no Mi.",
+    "recompensa": "Beli 20.000.000",
+    "idade": "29 anos (pós-timeskip)",
+    "fruta": "Riki Riki no Mi",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jesus_Burgess"
+  },
+  {
+    "nome": "Van Augur",
+    "descricao": "O 'Supersônico', atirador dos Piratas do Barba Negra e capitão do Terceiro Navio. Possui uma pontaria sobre-humana e é usuário da Wapu Wapu no Mi.",
+    "recompensa": "Beli 64.000.000",
+    "idade": "27 anos (pós-timeskip)",
+    "fruta": "Wapu Wapu no Mi",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Van_Augur"
+  },
+  {
+    "nome": "Laffitte",
+    "descricao": "Navegador e Chefe de Gabinete dos Piratas do Barba Negra. Ex-policial do West Blue, possui habilidades de hipnose e pode criar asas para voar.",
+    "recompensa": "Beli 42.200.000",
+    "idade": "41 anos (pós-timeskip)",
+    "fruta": "Desconhecida (possivelmente Zoan)",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Laffitte"
+  },
+  {
+    "nome": "Catarina Devon",
+    "descricao": "A 'Caçadora da Lua Crescente', capitã do Sexto Navio dos Piratas do Barba Negra. Considerada a pior criminosa da história, é usuária da Inu Inu no Mi, Modelo: Kyubi no Kitsune.",
+    "recompensa": "Desconhecida",
+    "idade": "36 anos (pós-timeskip)",
+    "fruta": "Inu Inu no Mi, Modelo: Kyubi no Kitsune",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Catarina_Devon"
+  },
+  {
+    "nome": "Benn Beckman",
+    "descricao": "O imediato dos Piratas do Ruivo. É um dos personagens mais inteligentes de One Piece e possui uma presença intimidadora, capaz de parar um Almirante da Marinha.",
+    "recompensa": "Desconhecida",
+    "idade": "50 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Benn_Beckman"
+  },
+  {
+    "nome": "Yasopp",
+    "descricao": "O atirador dos Piratas do Ruivo e pai de Usopp. É renomado por sua pontaria excepcional, sendo capaz de acertar a antena de uma formiga a cem pés de distância.",
+    "recompensa": "Desconhecida",
+    "idade": "47 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Yasopp"
+  },
+  {
+    "nome": "Queen",
+    "descricao": "Um dos três All-Stars dos Piratas das Feras, conhecido como 'Queen, a Praga'. É um cientista talentoso e usuário da Ryu Ryu no Mi, Modelo: Braquiossauro.",
+    "recompensa": "Beli 1.320.000.000",
+    "idade": "56 anos",
+    "fruta": "Ryu Ryu no Mi, Modelo: Braquiossauro",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/Queen"
+  },
+  {
+    "nome": "Jack",
+    "descricao": "Um dos três All-Stars dos Piratas das Feras, conhecido como 'Jack, a Seca'. Um homem-peixe com imensa resistência e usuário da Zou Zou no Mi, Modelo: Mamute.",
+    "recompensa": "Beli 1.000.000.000",
+    "idade": "28 anos",
+    "fruta": "Zou Zou no Mi, Modelo: Mamute",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jack"
+  },
+  {
+    "nome": "Ulti",
+    "descricao": "Uma dos Tobi Roppo dos Piratas das Feras. É extremamente temperamental e protetora de seu irmão Page One. Usuária da Ryu Ryu no Mi, Modelo: Paquicefalossauro.",
+    "recompensa": "Beli 400.000.000",
+    "idade": "22 anos",
+    "fruta": "Ryu Ryu no Mi, Modelo: Paquicefalossauro",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/Ulti"
+  },
+  {
+    "nome": "Who's-Who",
+    "descricao": "Um dos Tobi Roppo dos Piratas das Feras e ex-agente da CP9. Guarda um profundo rancor de Shanks e Luffy. Usuário da Neko Neko no Mi, Modelo: Tigre-Dentes-de-Sabre.",
+    "recompensa": "Beli 546.000.000",
+    "idade": "38 anos",
+    "fruta": "Neko Neko no Mi, Modelo: Tigre-Dentes-de-Sabre",
+    "tripulacao": "Piratas das Feras",
+    "link": "https://onepiece.fandom.com/pt/wiki/Who's-Who"
+  },
+  {
+    "nome": "Charlotte Perospero",
+    "descricao": "O filho mais velho da Família Charlotte e Ministro dos Doces de Totto Land. Usuário da Pero Pero no Mi, que lhe permite criar e manipular doces.",
+    "recompensa": "Beli 700.000.000",
+    "idade": "50 anos",
+    "fruta": "Pero Pero no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Perospero"
+  },
+  {
+    "nome": "Charlotte Cracker",
+    "descricao": "Um dos três Generais da Doçura dos Piratas da Big Mom. Usuário da Bisu Bisu no Mi, que lhe permite criar e manipular biscoitos com extrema dureza.",
+    "recompensa": "Beli 860.000.000",
+    "idade": "45 anos",
+    "fruta": "Bisu Bisu no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Cracker"
+  },
+  {
+    "nome": "Charlotte Smoothie",
+    "descricao": "Uma das três Generais da Doçura dos Piratas da Big Mom e Ministra do Suco. Usuária da Shibo Shibo no Mi, que lhe permite espremer líquido de pessoas e objetos.",
+    "recompensa": "Beli 932.000.000",
+    "idade": "35 anos",
+    "fruta": "Shibo Shibo no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Smoothie"
+  },
+  {
+    "nome": "Charlotte Pudding",
+    "descricao": "Uma das filhas de Big Mom e noiva arranjada de Sanji. Usuária da Memo Memo no Mi, que lhe permite manipular as memórias das pessoas.",
+    "recompensa": "Nenhuma",
+    "idade": "16 anos",
+    "fruta": "Memo Memo no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Pudding"
+  },
+  {
+    "nome": "Fisher Tiger",
+    "descricao": "O lendário aventureiro e herói dos Homens-Peixe. Fundador e capitão original dos Piratas do Sol, que escalou a Red Line e atacou Mary Geoise para libertar escravos.",
+    "recompensa": "Beli 230.000.000",
+    "idade": "48 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Sol",
+    "link": "https://onepiece.fandom.com/pt/wiki/Fisher_Tiger"
+  },
+  {
+    "nome": "Otohime",
+    "descricao": "A rainha do Reino Ryugu, esposa do Rei Netuno e mãe de Shirahoshi. Ela foi uma forte defensora da paz e coexistência entre humanos e homens-peixe.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino Ryugu",
+    "link": "https://onepiece.fandom.com/pt/wiki/Otohime"
+  },
+  {
+    "nome": "Hody Jones",
+    "descricao": "Um homem-peixe tubarão-branco e capitão dos Novos Piratas Homens-Peixe. Principal antagonista do Arco da Ilha dos Homens-Peixe, com um ódio extremo pelos humanos.",
+    "recompensa": "Desconhecida",
+    "idade": "30 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Novos Piratas Homens-Peixe",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hody_Jones"
+  },
+  {
+    "nome": "Vinsmoke Reiju",
+    "descricao": "A filha mais velha da Família Vinsmoke, princesa do Reino Germa e comandante do Germa 66. Conhecida como 'Poison Pink'.",
+    "recompensa": "Nenhuma",
+    "idade": "24 anos",
+    "fruta": "Nenhuma (corpo modificado geneticamente)",
+    "tripulacao": "Germa 66",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vinsmoke_Reiju"
+  },
+  {
+    "nome": "Vinsmoke Ichiji",
+    "descricao": "O primeiro filho da Família Vinsmoke e comandante do Germa 66. Conhecido como 'Sparking Red', possui habilidades relacionadas a explosões de luz.",
+    "recompensa": "Nenhuma",
+    "idade": "21 anos",
+    "fruta": "Nenhuma (corpo modificado geneticamente)",
+    "tripulacao": "Germa 66",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vinsmoke_Ichiji"
+  },
+  {
+    "nome": "Vinsmoke Niji",
+    "descricao": "O segundo filho da Família Vinsmoke e comandante do Germa 66. Conhecido como 'Dengeki Blue', possui habilidades elétricas.",
+    "recompensa": "Nenhuma",
+    "idade": "21 anos",
+    "fruta": "Nenhuma (corpo modificado geneticamente)",
+    "tripulacao": "Germa 66",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vinsmoke_Niji"
+  },
+  {
+    "nome": "Vinsmoke Yonji",
+    "descricao": "O quarto filho da Família Vinsmoke e comandante do Germa 66. Conhecido como 'Winch Green', possui força mecânica aprimorada.",
+    "recompensa": "Nenhuma",
+    "idade": "21 anos",
+    "fruta": "Nenhuma (corpo modificado geneticamente)",
+    "tripulacao": "Germa 66",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vinsmoke_Yonji"
+  },
+  {
+    "nome": "Pedro",
+    "descricao": "Um jaguar mink e capitão dos Guardiões da Floresta da Baleia em Zou. Sacrificou sua vida para ajudar os Chapéus de Palha a escaparem de Totto Land.",
+    "recompensa": "Beli 382.000.000",
+    "idade": "32 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Guardiões",
+    "link": "https://onepiece.fandom.com/pt/wiki/Pedro"
+  },
+  {
+    "nome": "Carrot",
+    "descricao": "Uma coelha mink e membro do Esquadrão de Mosqueteiros Inuarashi. Viajou com os Chapéus de Palha e pode se transformar em sua forma Sulong sob a lua cheia.",
+    "recompensa": "Nenhuma",
+    "idade": "15 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Tribo Mink",
+    "link": "https://onepiece.fandom.com/pt/wiki/Carrot"
+  },
+  {
+    "nome": "Inuarashi",
+    "descricao": "Um cão mink e um dos dois governantes de Zou, conhecido como o 'Rei do Dia'. É um dos Nove Bainhas Vermelhas que serviram a Kozuki Oden.",
+    "recompensa": "Nenhuma",
+    "idade": "40 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Inuarashi"
+  },
+  {
+    "nome": "Nekomamushi",
+    "descricao": "Um gato mink e um dos dois governantes de Zou, conhecido como o 'Rei da Noite'. É um dos Nove Bainhas Vermelhas que serviram a Kozuki Oden.",
+    "recompensa": "Nenhuma",
+    "idade": "40 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nekomamushi"
+  },
+  {
+    "nome": "Kin'emon",
+    "descricao": "Um samurai do País de Wano e líder dos Nove Bainhas Vermelhas. Usuário da Fuku Fuku no Mi, que lhe permite criar roupas e disfarces.",
+    "recompensa": "Nenhuma",
+    "idade": "36 anos (biologicamente 56)",
+    "fruta": "Fuku Fuku no Mi",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kin'emon"
+  },
+  {
+    "nome": "Raizo",
+    "descricao": "Um ninja do País de Wano e um dos Nove Bainhas Vermelhas. Usuário da Maki Maki no Mi, que lhe permite criar e manipular pergaminhos com várias propriedades.",
+    "recompensa": "Nenhuma",
+    "idade": "35 anos (biologicamente 55)",
+    "fruta": "Maki Maki no Mi",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Raizo"
+  },
+  {
+    "nome": "Kanjuro",
+    "descricao": "Um samurai do País de Wano e ex-membro dos Nove Bainhas Vermelhas, que se revelou um traidor. Usuário de uma Akuma no Mi que lhe permite dar vida a tudo que desenha.",
+    "recompensa": "Nenhuma",
+    "idade": "32 anos (biologicamente 52, na morte)",
+    "fruta": "Fude Fude no Mi",
+    "tripulacao": "Clã Kurozumi",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kurozumi_Kanjuro"
+  },
+  {
+    "nome": "Ashura Doji (Shutenmaru)",
+    "descricao": "O mais forte samurai de Kuri e um dos Nove Bainhas Vermelhas. Liderou os bandidos da Montanha Atamayama antes de se juntar a Oden.",
+    "recompensa": "Nenhuma",
+    "idade": "46 anos (biologicamente 66, na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Ashura_Doji"
+  },
+  {
+    "nome": "Denjiro (Kyoshiro)",
+    "descricao": "Um dos Nove Bainhas Vermelhas. Passou 20 anos disfarçado como Kyoshiro, um chefe da Yakuza e leal a Orochi, para preparar a rebelião.",
+    "recompensa": "Nenhuma",
+    "idade": "37 anos (biologicamente 57)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Denjiro"
+  },
+  {
+    "nome": "Kozuki Hiyori (Komurasaki)",
+    "descricao": "Filha de Kozuki Oden e irmã de Momonosuke. Passou 20 anos disfarçada como Komurasaki, a cortesã mais famosa de Wano.",
+    "recompensa": "Nenhuma",
+    "idade": "26 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Clã Kozuki",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kozuki_Hiyori"
+  },
+  {
+    "nome": "Kurozumi Orochi",
+    "descricao": "O shogun tirano do País de Wano que governou com o apoio de Kaido. Usuário da Hebi Hebi no Mi, Modelo: Yamata no Orochi.",
+    "recompensa": "Nenhuma",
+    "idade": "54 anos (na morte)",
+    "fruta": "Hebi Hebi no Mi, Modelo: Yamata no Orochi",
+    "tripulacao": "Clã Kurozumi",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kurozumi_Orochi"
+  },
+  {
+    "nome": "Shimotsuki Ryuma",
+    "descricao": "Um lendário samurai do País de Wano da família Shimotsuki. Seu corpo foi transformado no zumbi General-Zumbi por Gecko Moria, que lutou contra Zoro em Thriller Bark.",
+    "recompensa": "Nenhuma",
+    "idade": "47 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Clã Shimotsuki",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shimotsuki_Ryuma"
+  },
+  {
+    "nome": "Foxy",
+    "descricao": "O 'Raposa Prateada', capitão dos Piratas do Foxy e especialista no jogo Davy Back Fight. Usuário da Noro Noro no Mi, que emite raios que retardam qualquer coisa por 30 segundos.",
+    "recompensa": "Beli 24.000.000",
+    "idade": "38 anos (pós-timeskip)",
+    "fruta": "Noro Noro no Mi",
+    "tripulacao": "Piratas do Foxy",
+    "link": "https://onepiece.fandom.com/pt/wiki/Foxy"
+  },
+  {
+    "nome": "Wiper",
+    "descricao": "O líder dos guerreiros Shandia e descendente direto de Calgara. Lutou ferozmente contra Enel para retomar sua terra natal.",
+    "recompensa": "Nenhuma",
+    "idade": "24 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Guerreiros Shandia",
+    "link": "https://onepiece.fandom.com/pt/wiki/Wiper"
+  },
+  {
+    "nome": "Montblanc Cricket",
+    "descricao": "Descendente de Montblanc Noland, o 'Mentiroso'. Passou anos mergulhando para encontrar a cidade de ouro e provar que seu ancestral não era um mentiroso.",
+    "recompensa": "Beli 25.000.000",
+    "idade": "43 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Aliança Saruyama",
+    "link": "https://onepiece.fandom.com/pt/wiki/Montblanc_Cricket"
+  },
+  {
+    "nome": "Paulie",
+    "descricao": "Um dos cinco capatazes da Galley-La Company no Dique 1. É um mestre em cordas e mastros, usando-as como armas.",
+    "recompensa": "Nenhuma",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Galley-La Company",
+    "link": "https://onepiece.fandom.com/pt/wiki/Paulie"
+  },
+  {
+    "nome": "Iceburg",
+    "descricao": "O prefeito de Water 7 e presidente da Galley-La Company. Foi um dos aprendizes de Tom, o lendário carpinteiro que construiu o navio de Gol D. Roger.",
+    "recompensa": "Nenhuma",
+    "idade": "40 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Galley-La Company",
+    "link": "https://onepiece.fandom.com/pt/wiki/Iceburg"
+  },
+  {
+    "nome": "Tom",
+    "descricao": "Um homem-peixe e o lendário carpinteiro que construiu o Oro Jackson, o navio do Rei dos Piratas. Foi o mentor de Franky e Iceburg.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Tom's Workers",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tom"
+  },
+  {
+    "nome": "Dr. Kureha",
+    "descricao": "Uma médica de 141 anos do Reino de Drum e a mentora de Tony Tony Chopper. É conhecida por sua habilidade médica e sua personalidade excêntrica.",
+    "recompensa": "Nenhuma",
+    "idade": "141 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Sakura",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kureha"
+  },
+  {
+    "nome": "Wapol",
+    "descricao": "O ex-rei tirano do Reino de Drum. Usuário da Baku Baku no Mi, que lhe permite comer qualquer coisa e fundir objetos (ou a si mesmo) com o que comeu.",
+    "recompensa": "Nenhuma",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Baku Baku no Mi",
+    "tripulacao": "Reino do Tambor Negro",
+    "link": "https://onepiece.fandom.com/pt/wiki/Wapol"
+  },
+  {
+    "nome": "Galdino (Mr. 3)",
+    "descricao": "Ex-agente oficial da Baroque Works. Usuário da Doru Doru no Mi, que lhe permite criar e manipular cera. Mais tarde, torna-se um aliado de Buggy.",
+    "recompensa": "Beli 24.000.000",
+    "idade": "37 anos (pós-timeskip)",
+    "fruta": "Doru Doru no Mi",
+    "tripulacao": "Cross Guild",
+    "link": "https://onepiece.fandom.com/pt/wiki/Galdino"
+  },
+  {
+    "nome": "Zeff",
+    "descricao": "O chefe de cozinha e proprietário do restaurante flutuante Baratie. É o mentor de Sanji, a quem ensinou a cozinhar e a lutar. Conhecido como 'Zeff Perna Vermelha'.",
+    "recompensa": "Nenhuma",
+    "idade": "67 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Baratie",
+    "link": "https://onepiece.fandom.com/pt/wiki/Zeff"
+  },
+  {
+    "nome": "Don Krieg",
+    "descricao": "Capitão da Armada Pirata Krieg, conhecida por sua vasta frota e arsenal. Principal antagonista do Arco Baratie, que usa uma armadura de aço wootz dourado.",
+    "recompensa": "Beli 17.000.000",
+    "idade": "44 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Krieg",
+    "link": "https://onepiece.fandom.com/pt/wiki/Don_Krieg"
+  },
+  {
+    "nome": "Lucky Roux",
+    "descricao": "Um dos oficiais principais dos Piratas do Ruivo. É frequentemente visto com um pedaço de carne na mão e foi a primeira pessoa a matar alguém no mangá.",
+    "recompensa": "Desconhecida",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Lucky_Roux"
+  },
+  {
+    "nome": "Higuma",
+    "descricao": "Um bandido da montanha que humilhou Shanks no início da história na cidade natal de Luffy. Subestimou o mar e foi devorado por um Rei dos Mares.",
+    "recompensa": "Beli 8.000.000",
+    "idade": "Desconhecida (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Bandidos da Montanha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Higuma"
+  },
+  {
+    "nome": "Alvida",
+    "descricao": "A primeira antagonista que Luffy enfrentou. Inicialmente gorda e feia, ela comeu a Sube Sube no Mi, que a tornou esbelta e fez com que ataques deslizassem por sua pele.",
+    "recompensa": "Beli 5.000.000",
+    "idade": "27 anos (pós-timeskip)",
+    "fruta": "Sube Sube no Mi",
+    "tripulacao": "Piratas da Alvida",
+    "link": "https://onepiece.fandom.com/pt/wiki/Alvida"
+  },
+  {
+    "nome": "Helmeppo",
+    "descricao": "Filho do Capitão Morgan. Inicialmente mimado e covarde, ele se junta à Marinha com Coby e, sob a tutela de Garp, torna-se um oficial competente.",
+    "recompensa": "Nenhuma",
+    "idade": "22 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Helmeppo"
+  },
+  {
+    "nome": "Morgan",
+    "descricao": "Um Capitão da Marinha tirânico com um machado no lugar do braço, que governava Shells Town. Foi o primeiro oficial da Marinha de alta patente derrotado por Luffy.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Morgan"
+  },
+  {
+    "nome": "Kuro",
+    "descricao": "Conhecido como 'Kuro dos Mil Planos', capitão dos Piratas do Gato Preto. Um estrategista cruel que fingiu ser um mordomo por anos. Famoso por sua técnica de movimento silencioso, o Nukiashi.",
+    "recompensa": "Beli 16.000.000",
+    "idade": "35 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Gato Preto",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kuro"
+  },
+  {
+    "nome": "Jango",
+    "descricao": "Ex-imediato dos Piratas do Gato Preto e um hipnotizador. Mais tarde, ele se junta à Marinha junto com Fullbody.",
+    "recompensa": "Beli 9.000.000",
+    "idade": "29 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jango"
+  },
+  {
+    "nome": "Gin",
+    "descricao": "O 'Homem-Demônio', comandante de combate dos Piratas do Krieg. Um lutador formidável que desenvolveu respeito por Sanji durante o arco Baratie.",
+    "recompensa": "Beli 12.000.000",
+    "idade": "27 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Krieg",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gin"
+  },
+  {
+    "nome": "Hatchan",
+    "descricao": "Um homem-peixe polvo e ex-oficial dos Piratas do Arlong. Um espadachim de seis espadas (Rokutoryu) que mais tarde se torna amigo dos Chapéus de Palha e abre uma barraca de takoyaki.",
+    "recompensa": "Nenhuma",
+    "idade": "38 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Sol",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hatchan"
+  },
+  {
+    "nome": "Nezumi",
+    "descricao": "Um Capitão corrupto da 16ª filial da Marinha que estava sob o controle de Arlong, permitindo suas atividades em troca de suborno.",
+    "recompensa": "Nenhuma",
+    "idade": "36 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nezumi"
+  },
+  {
+    "nome": "Dorry",
+    "descricao": "Um gigante de Elbaf e ex-capitão dos Piratas Guerreiros Gigantes. Ele está preso em Little Garden por 100 anos, duelando com seu companheiro Brogy.",
+    "recompensa": "Beli 100.000.000",
+    "idade": "160 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Guerreiros Gigantes",
+    "link": "https://onepiece.fandom.com/pt/wiki/Dorry"
+  },
+  {
+    "nome": "Brogy",
+    "descricao": "Um gigante de Elbaf e ex-capitão dos Piratas Guerreiros Gigantes. Ele duela com Dorry em Little Garden há um século por uma questão de honra.",
+    "recompensa": "Beli 100.000.000",
+    "idade": "160 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Guerreiros Gigantes",
+    "link": "https://onepiece.fandom.com/pt/wiki/Brogy"
+  },
+  {
+    "nome": "Dalton",
+    "descricao": "Ex-chefe da guarda real do Reino de Drum. Após a derrota de Wapol, ele se torna o governante do agora chamado Reino de Sakura.",
+    "recompensa": "Nenhuma",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Ushi Ushi no Mi, Modelo: Bisão",
+    "tripulacao": "Reino de Sakura",
+    "link": "https://onepiece.fandom.com/pt/wiki/Dalton"
+  },
+  {
+    "nome": "Igaram",
+    "descricao": "Capitão da Guarda Real de Alabasta. Disfarçou-se como 'Mr. 8' da Baroque Works para proteger a Princesa Vivi.",
+    "recompensa": "Nenhuma",
+    "idade": "50 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Alabasta",
+    "link": "https://onepiece.fandom.com/pt/wiki/Igaram"
+  },
+  {
+    "nome": "Pell",
+    "descricao": "Um dos dois guardiões chefes de Alabasta, conhecido como 'Pell, o Falcão'. Usuário da Tori Tori no Mi, Modelo: Falcão, ele é um protetor leal da família real.",
+    "recompensa": "Nenhuma",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Tori Tori no Mi, Modelo: Falcão",
+    "tripulacao": "Reino de Alabasta",
+    "link": "https://onepiece.fandom.com/pt/wiki/Pell"
+  },
+  {
+    "nome": "Chaka",
+    "descricao": "Um dos dois guardiões chefes de Alabasta, conhecido como 'Chaka, o Chacal'. Usuário da Inu Inu no Mi, Modelo: Chacal.",
+    "recompensa": "Nenhuma",
+    "idade": "41 anos (pós-timeskip)",
+    "fruta": "Inu Inu no Mi, Modelo: Chacal",
+    "tripulacao": "Reino de Alabasta",
+    "link": "https://onepiece.fandom.com/pt/wiki/Chaka"
+  },
+  {
+    "nome": "Nefertari Cobra",
+    "descricao": "O 12º rei do Reino de Alabasta e pai de Vivi. Um governante sábio e benevolente que coloca seu povo acima de tudo.",
+    "recompensa": "Nenhuma",
+    "idade": "50 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Alabasta",
+    "link": "https://onepiece.fandom.com/pt/wiki/Nefertari_Cobra"
+  },
+  {
+    "nome": "Daz Bonez (Mr. 1)",
+    "descricao": "Um ex-caçador de recompensas e o agente masculino mais forte da Baroque Works. Usuário da Supa Supa no Mi, que lhe permite transformar qualquer parte de seu corpo em lâminas.",
+    "recompensa": "Beli 75.000.000",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Supa Supa no Mi",
+    "tripulacao": "Cross Guild",
+    "link": "https://onepiece.fandom.com/pt/wiki/Daz_Bonez"
+  },
+  {
+    "nome": "Zala (Miss Doublefinger)",
+    "descricao": "Parceira de Mr. 1 na Baroque Works. Usuária da Toge Toge no Mi, que lhe permite criar espinhos afiados de seu corpo.",
+    "recompensa": "Beli 35.000.000",
+    "idade": "28 anos (pós-timeskip)",
+    "fruta": "Toge Toge no Mi",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Zala"
+  },
+  {
+    "nome": "Hina",
+    "descricao": "Uma Contra-Almirante da Marinha conhecida como 'Hina, a Jaula Negra'. Usuária da Ori Ori no Mi, que lhe permite prender inimigos com barras de ferro.",
+    "recompensa": "Nenhuma",
+    "idade": "34 anos (pós-timeskip)",
+    "fruta": "Ori Ori no Mi",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hina"
+  },
+  {
+    "nome": "Bell-mère",
+    "descricao": "Uma ex-fuzileira naval e mãe adotiva de Nami e Nojiko. Foi morta por Arlong para proteger suas filhas.",
+    "recompensa": "Nenhuma",
+    "idade": "30 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Vila Cocoyasi",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bell-m%C3%A8re"
+  },
+  {
+    "nome": "Genzo",
+    "descricao": "O xerife da Vila Cocoyasi e uma figura paterna para Nami e Nojiko. Ele usa um cata-vento no chapéu, que inspirou a tatuagem de Nami.",
+    "recompensa": "Nenhuma",
+    "idade": "48 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Vila Cocoyasi",
+    "link": "https://onepiece.fandom.com/pt/wiki/Genzo"
+  },
+  {
+    "nome": "Calgara",
+    "descricao": "Um lendário guerreiro Shandia de 400 anos atrás. Tornou-se o melhor amigo do explorador Montblanc Noland.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Guerreiros Shandia",
+    "link": "https://onepiece.fandom.com/pt/wiki/Calgara"
+  },
+  {
+    "nome": "Montblanc Noland",
+    "descricao": "Um explorador e botânico de 400 anos atrás, que descobriu a cidade de ouro em Jaya. Foi executado por supostamente mentir sobre sua descoberta.",
+    "recompensa": "Nenhuma",
+    "idade": "39 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Lvneel",
+    "link": "https://onepiece.fandom.com/pt/wiki/Montblanc_Noland"
+  },
+  {
+    "nome": "Tonjit",
+    "descricao": "Um nômade de Long Ring Long Land que passou 10 anos preso em pernas de pau. Foi ajudado por Luffy e seu cavalo, Shelly.",
+    "recompensa": "Nenhuma",
+    "idade": "63 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nômade",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tonjit"
+  },
+  {
+    "nome": "Kaku",
+    "descricao": "Um ex-membro da CP9 que se infiltrou na Galley-La Company. Usuário da Ushi Ushi no Mi, Modelo: Girafa. Atualmente membro da CP-0.",
+    "recompensa": "Nenhuma",
+    "idade": "25 anos (pós-timeskip)",
+    "fruta": "Ushi Ushi no Mi, Modelo: Girafa",
+    "tripulacao": "CP-0",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kaku"
+  },
+  {
+    "nome": "Jabra",
+    "descricao": "Um ex-membro da CP9 e rival de Rob Lucci. Usuário da Inu Inu no Mi, Modelo: Lobo.",
+    "recompensa": "Nenhuma",
+    "idade": "37 anos (pós-timeskip)",
+    "fruta": "Inu Inu no Mi, Modelo: Lobo",
+    "tripulacao": "CP-0",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jabra"
+  },
+  {
+    "nome": "Blueno",
+    "descricao": "Um ex-membro da CP9 que trabalhava como barman em Water 7. Usuário da Doa Doa no Mi, que lhe permite criar portas em qualquer superfície.",
+    "recompensa": "Nenhuma",
+    "idade": "32 anos (pós-timeskip)",
+    "fruta": "Doa Doa no Mi",
+    "tripulacao": "CP-9",
+    "link": "https://onepiece.fandom.com/pt/wiki/Blueno"
+  },
+  {
+    "nome": "Spandam",
+    "descricao": "O ex-chefe da CP9, um homem fraco e covarde que herdou sua posição. Ele empunhava a espada Funkfreed, que 'comeu' a Zou Zou no Mi.",
+    "recompensa": "Nenhuma",
+    "idade": "41 anos (pós-timeskip)",
+    "fruta": "Nenhuma (sua espada possui a Zou Zou no Mi)",
+    "tripulacao": "CP-0",
+    "link": "https://onepiece.fandom.com/pt/wiki/Spandam"
+  },
+  {
+    "nome": "Kokoro",
+    "descricao": "Uma sereia que trabalha como condutora do Trem do Oceano. Ela foi secretária de Tom, o carpinteiro.",
+    "recompensa": "Nenhuma",
+    "idade": "72 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Water 7",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kokoro"
+  },
+  {
+    "nome": "Chimney",
+    "descricao": "A neta de Kokoro, uma garota enérgica e curiosa que sempre está acompanhada de seu gato-coelho, Gonbe.",
+    "recompensa": "Nenhuma",
+    "idade": "10 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Water 7",
+    "link": "https://onepiece.fandom.com/pt/wiki/Chimney"
+  },
+  {
+    "nome": "Dr. Hogback",
+    "descricao": "Um cirurgião genial que se juntou a Gecko Moria em Thriller Bark para ressuscitar os mortos como zumbis, incluindo sua amada Cindry.",
+    "recompensa": "Nenhuma",
+    "idade": "47 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas de Thriller Bark",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hogback"
+  },
+  {
+    "nome": "Absalom",
+    "descricao": "O 'Absalom do Cemitério', um dos comandantes de Thriller Bark. Usuário da Suke Suke no Mi, que lhe dá o poder da invisibilidade. Foi morto por Shiryu.",
+    "recompensa": "Desconhecida",
+    "idade": "36 anos (na morte)",
+    "fruta": "Suke Suke no Mi",
+    "tripulacao": "Piratas de Thriller Bark",
+    "link": "https://onepiece.fandom.com/pt/wiki/Absalom"
+  },
+  {
+    "nome": "Camie",
+    "descricao": "Uma sereia beijadora e amiga de Hatchan. Ela sonha em ser uma designer e foi salva por Luffy e seus amigos de ser vendida como escrava.",
+    "recompensa": "Nenhuma",
+    "idade": "18 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Takoyaki 8",
+    "link": "https://onepiece.fandom.com/pt/wiki/Camie"
+  },
+  {
+    "nome": "Pappag",
+    "descricao": "Uma estrela-do-mar falante e mestre de Camie. É um designer de moda famoso na Ilha dos Homens-Peixe, criador da marca Criminal.",
+    "recompensa": "Nenhuma",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Criminal",
+    "link": "https://onepiece.fandom.com/pt/wiki/Pappag"
+  },
+  {
+    "nome": "Duval",
+    "descricao": "Líder dos Cavaleiros dos Peixes Voadores. Inicialmente, ele odiava Sanji por ter um retrato falado idêntico ao seu rosto. Após Sanji remodelar seu rosto, ele se torna um aliado.",
+    "recompensa": "Desconhecida",
+    "idade": "25 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Cavaleiros dos Peixes Voadores",
+    "link": "https://onepiece.fandom.com/pt/wiki/Duval"
+  },
+  {
+    "nome": "Marguerite",
+    "descricao": "Uma guerreira Kuja de Amazon Lily que fez amizade com Luffy quando ele caiu na ilha.",
+    "recompensa": "Nenhuma",
+    "idade": "18 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Kuja",
+    "link": "https://onepiece.fandom.com/pt/wiki/Marguerite"
+  },
+  {
+    "nome": "Hannyabal",
+    "descricao": "O atual diretor de Impel Down. É extremamente ambicioso e estava sempre tentando tomar o lugar de Magellan.",
+    "recompensa": "Nenhuma",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Impel Down",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hannyabal"
+  },
+  {
+    "nome": "Sadie",
+    "descricao": "A chefe dos guardas de Impel Down. Uma sádica que sente prazer em ouvir os gritos dos prisioneiros.",
+    "recompensa": "Nenhuma",
+    "idade": "29 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Impel Down",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sadie"
+  },
+  {
+    "nome": "Inazuma",
+    "descricao": "Um revolucionário e companheiro de Emporio Ivankov. Usuário da Choki Choki no Mi, que lhe permite transformar suas mãos em tesouras e cortar qualquer coisa como se fosse papel.",
+    "recompensa": "Desconhecida",
+    "idade": "29 anos (pós-timeskip)",
+    "fruta": "Choki Choki no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Inazuma"
+  },
+  {
+    "nome": "Killer",
+    "descricao": "O 'Soldado Massacrador', um combatente dos Piratas Kid e o braço direito de Eustass Kid. Ele luta com duas cimitarras giratórias e comeu uma SMILE defeituosa.",
+    "recompensa": "Beli 200.000.000",
+    "idade": "27 anos (pós-timeskip)",
+    "fruta": "Nenhuma (SMILE)",
+    "tripulacao": "Piratas do Kid",
+    "link": "https://onepiece.fandom.com/pt/wiki/Killer"
+  },
+  {
+    "nome": "Bepo",
+    "descricao": "Um mink urso polar e o navegador dos Piratas do Coração. É um mestre em artes marciais, mas frequentemente se desculpa por ser um urso. Pode se transformar em sua forma Sulong.",
+    "recompensa": "Beli 500",
+    "idade": "22 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Coração",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bepo"
+  },
+  {
+    "nome": "Señor Pink",
+    "descricao": "Um oficial da família Donquixote. Usuário da Sui Sui no Mi, que lhe permite nadar em qualquer superfície. Veste-se como um bebê em homenagem à sua falecida esposa.",
+    "recompensa": "Beli 58.000.000",
+    "idade": "46 anos",
+    "fruta": "Sui Sui no Mi",
+    "tripulacao": "Piratas Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Se%C3%B1or_Pink"
+  },
+  {
+    "nome": "Gladius",
+    "descricao": "Um oficial da família Donquixote. Usuário da Pamu Pamu no Mi, que lhe permite fazer seu corpo ou qualquer objeto inorgânico que ele toque inchar e explodir.",
+    "recompensa": "Nenhuma",
+    "idade": "33 anos",
+    "fruta": "Pamu Pamu no Mi",
+    "tripulacao": "Piratas Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gladius"
+  },
+  {
+    "nome": "Lao G",
+    "descricao": "Um oficial da família Donquixote e mestre em um estilo de arte marcial único. Apesar de sua idade avançada, ele é um lutador extremamente poderoso e rápido.",
+    "recompensa": "Beli 61.000.000",
+    "idade": "70 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Lao_G"
+  },
+  {
+    "nome": "Scopper Gaban",
+    "descricao": "Um dos membros mais proeminentes dos Piratas do Roger, considerado um dos três mais fortes da tripulação, junto com Roger e Rayleigh. Empunhava dois machados.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Roger",
+    "link": "https://onepiece.fandom.com/pt/wiki/Scopper_Gaban"
+  },
+  {
+    "nome": "Crocus",
+    "descricao": "O médico dos Piratas do Roger durante sua última viagem e o guardião dos Cabos Gêmeos, cuidando da baleia Laboon.",
+    "recompensa": "Nenhuma",
+    "idade": "73 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Roger",
+    "link": "https://onepiece.fandom.com/pt/wiki/Crocus"
+  },
+  {
+    "nome": "Boa Sandersonia",
+    "descricao": "Uma das três irmãs Gorgon que governam Amazon Lily e irmã mais nova de Boa Hancock. Usuária da Hebi Hebi no Mi, Modelo: Anaconda.",
+    "recompensa": "Beli 40.000.000",
+    "idade": "28 anos (pós-timeskip)",
+    "fruta": "Hebi Hebi no Mi, Modelo: Anaconda",
+    "tripulacao": "Piratas Kuja",
+    "link": "https://onepiece.fandom.com/pt/wiki/Boa_Sandersonia"
+  },
+  {
+    "nome": "Boa Marigold",
+    "descricao": "Uma das três irmãs Gorgon e a mais nova das três. Usuária da Hebi Hebi no Mi, Modelo: Naja.",
+    "recompensa": "Beli 40.000.000",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Hebi Hebi no Mi, Modelo: Naja",
+    "tripulacao": "Piratas Kuja",
+    "link": "https://onepiece.fandom.com/pt/wiki/Boa_Marigold"
+  },
+  {
+    "nome": "Izo",
+    "descricao": "Ex-comandante da 16ª divisão dos Piratas do Barba Branca e um samurai de Wano, irmão mais velho de Kiku. Um mestre no uso de pistolas.",
+    "recompensa": "Beli 510.000.000",
+    "idade": "45 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Izo"
+  },
+  {
+    "nome": "Capone Bege",
+    "descricao": "Capitão dos Piratas Firetank e um membro da Pior Geração. Usuário da Shiro Shiro no Mi, que o transforma em um homem-castelo, permitindo que ele abrigue sua tripulação e arsenal dentro de seu corpo.",
+    "recompensa": "Beli 350.000.000",
+    "idade": "42 anos (pós-timeskip)",
+    "fruta": "Shiro Shiro no Mi",
+    "tripulacao": "Piratas Firetank",
+    "link": "https://onepiece.fandom.com/pt/wiki/Capone_Bege"
+  },
+  {
+    "nome": "Scratchmen Apoo",
+    "descricao": "O 'Rugido do Mar', capitão dos Piratas On Air e membro da Pior Geração. Usuário da Oto Oto no Mi, que lhe permite transformar partes de seu corpo em instrumentos musicais e usar o som como arma.",
+    "recompensa": "Beli 350.000.000",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Oto Oto no Mi",
+    "tripulacao": "Piratas On Air",
+    "link": "https://onepiece.fandom.com/pt/wiki/Scratchmen_Apoo"
+  },
+  {
+    "nome": "Urouge",
+    "descricao": "O 'Monge Louco', capitão dos Piratas do Monge Caído e membro da Pior Geração. Vindo de uma ilha do céu, ele possui uma Akuma no Mi que converte o dano que ele recebe em força física.",
+    "recompensa": "Beli 108.000.000",
+    "idade": "47 anos (pós-timeskip)",
+    "fruta": "Desconhecida (Tipo Paramecia)",
+    "tripulacao": "Piratas do Monge Caído",
+    "link": "https://onepiece.fandom.com/pt/wiki/Urouge"
+  },
+  {
+    "nome": "Belo Betty",
+    "descricao": "Comandante do Exército Leste do Exército Revolucionário. Usuária da Kobu Kobu no Mi, que lhe permite despertar o poder latente nas pessoas e inspirá-las a lutar.",
+    "recompensa": "Beli 457.000.000",
+    "idade": "34 anos",
+    "fruta": "Kobu Kobu no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Belo_Betty"
+  },
+  {
+    "nome": "Morley",
+    "descricao": "Um gigante e comandante do Exército Oeste do Exército Revolucionário. Usuário da Oshi Oshi no Mi, que lhe permite empurrar e moldar o chão como se fosse argila.",
+    "recompensa": "Beli 293.000.000",
+    "idade": "160 anos",
+    "fruta": "Oshi Oshi no Mi",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Morley"
+  },
+  {
+    "nome": "Lindbergh",
+    "descricao": "Um inventor da tribo Mink e comandante do Exército Sul do Exército Revolucionário. Ele cria armas e gadgets avançados para a causa.",
+    "recompensa": "Beli 316.000.000",
+    "idade": "37 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Lindbergh"
+  },
+  {
+    "nome": "Charlotte Oven",
+    "descricao": "O quarto filho da Família Charlotte e Ministro dos Alimentos Queimados. Usuário da Netsu Netsu no Mi, que lhe permite aquecer seu corpo a temperaturas extremas.",
+    "recompensa": "Beli 300.000.000",
+    "idade": "48 anos",
+    "fruta": "Netsu Netsu no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Oven"
+  },
+  {
+    "nome": "Charlotte Daifuku",
+    "descricao": "O terceiro filho da Família Charlotte e Ministro dos Feijões. Usuário da Hoya Hoya no Mi, que lhe permite invocar um gênio de seu corpo ao se esfregar.",
+    "recompensa": "Beli 300.000.000",
+    "idade": "48 anos",
+    "fruta": "Hoya Hoya no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Daifuku"
+  },
+  {
+    "nome": "Charlotte Brûlée",
+    "descricao": "A oitava filha da Família Charlotte. Usuária da Mira Mira no Mi, que lhe permite criar espelhos que podem refletir ataques e servir como portais para um 'Mundo dos Espelhos'.",
+    "recompensa": "Nenhuma",
+    "idade": "43 anos",
+    "fruta": "Mira Mira no Mi",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Br%C3%BBl%C3%A9e"
+  },
+  {
+    "nome": "Momonga",
+    "descricao": "Um Vice-Almirante da Marinha e um espadachim habilidoso. É um dos Vice-Almirantes mais proeminentes, tendo participado do Buster Call em Enies Lobby e da Batalha de Marineford.",
+    "recompensa": "Nenhuma",
+    "idade": "53 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Momonga"
+  },
+  {
+    "nome": "Onigumo",
+    "descricao": "Um Vice-Almirante da Marinha de aparência intimidadora. Usuário de uma Akuma no Mi do tipo Zoan que lhe permite transformar-se em uma aranha, concedendo-lhe múltiplos braços para empunhar espadas.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Desconhecida (Zoan, Modelo: Aranha)",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Onigumo"
+  },
+  {
+    "nome": "Doberman",
+    "descricao": "Um Vice-Almirante da Marinha e um defensor ferrenho da Justiça Absoluta. É conhecido por seu rosto coberto de cicatrizes e sua atitude implacável em batalha.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Doberman"
+  },
+  {
+    "nome": "Sai",
+    "descricao": "O 13º líder da Happo Navy e um mestre do Hasshoken. Após os eventos de Dressrosa, ele se torna o comandante da 3ª divisão da Grande Frota do Chapéu de Palha.",
+    "recompensa": "Beli 210.000.000",
+    "idade": "28 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Grande Frota do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Sai"
+  },
+  {
+    "nome": "Don Chinjao",
+    "descricao": "Ex-líder da Happo Navy e uma lenda do passado, conhecido por sua cabeça pontuda capaz de rachar continentes de gelo. Avô de Sai.",
+    "recompensa": "Beli 542.000.000",
+    "idade": "78 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Happo Navy",
+    "link": "https://onepiece.fandom.com/pt/wiki/Chinjao"
+  },
+  {
+    "nome": "Orlumbus",
+    "descricao": "O 'Governante do Massacre', um grande almirante da Frota Yonta Maria. Comanda uma frota de 4.300 homens e se junta à Grande Frota do Chapéu de Palha como comandante da 7ª divisão.",
+    "recompensa": "Beli 148.000.000",
+    "idade": "42 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Grande Frota do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Orlumbus"
+  },
+  {
+    "nome": "Hajrudin",
+    "descricao": "Um guerreiro gigante de Elbaf e capitão dos Novos Piratas Guerreiros Gigantes. Ele se torna o comandante da 6ª divisão da Grande Frota do Chapéu de Palha.",
+    "recompensa": "Nenhuma",
+    "idade": "81 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Grande Frota do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hajrudin"
+  },
+  {
+    "nome": "Ideo",
+    "descricao": "O 'Canhão da Destruição', um lutador da Tribo dos Braços Longos e campeão de boxe. Ele se torna o comandante da 4ª divisão da Grande Frota do Chapéu de Palha.",
+    "recompensa": "Nenhuma",
+    "idade": "22 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Grande Frota do Chapéu de Palha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Ideo"
+  },
+  {
+    "nome": "Stussy",
+    "descricao": "Uma agente da CP-0 e a 'Rainha do Distrito da Luz Vermelha'. Ela é um clone bem-sucedido de um ex-membro dos Piratas Rocks, Buckingham Stussy.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Desconhecida",
+    "tripulacao": "CP-0",
+    "link": "https://onepiece.fandom.com/pt/wiki/Stussy"
+  },
+  {
+    "nome": "Kozuki Toki",
+    "descricao": "Esposa de Kozuki Oden e mãe de Momonosuke e Hiyori. Usuária da Toki Toki no Mi, que lhe permitiu viajar para o futuro. Ela enviou os Bainhas Vermelhas 20 anos para o futuro para cumprir uma profecia.",
+    "recompensa": "Nenhuma",
+    "idade": "36 anos (na morte, nascida há 800 anos)",
+    "fruta": "Toki Toki no Mi",
+    "tripulacao": "Clã Kozuki",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kozuki_Toki"
+  },
+  {
+    "nome": "Dr. Hiriluk",
+    "descricao": "Um médico charlatão do Reino de Drum e a figura paterna de Tony Tony Chopper. Ele acreditava que não havia doença que não pudesse ser curada e seu sonho era fazer as cerejeiras florescerem em Drum.",
+    "recompensa": "Nenhuma",
+    "idade": "68 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Reino de Drum",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hiriluk"
+  },
+  {
+    "nome": "Saint Topman Warcury",
+    "descricao": "Um dos Cinco Anciões, os mais altos nobres do mundo. É o Deus Guerreiro da Justiça do Governo Mundial.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Desconhecida (Zoan Mítica, Modelo: Hoki)",
+    "tripulacao": "Governo Mundial",
+    "link": "https://onepiece.fandom.com/pt/wiki/Topman_Warcury"
+  },
+  {
+    "nome": "Saint Ethanbaron V. Nusjuro",
+    "descricao": "Um dos Cinco Anciões, os mais altos nobres do mundo. É o Deus Guerreiro das Finanças do Governo Mundial.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Desconhecida (Zoan Mítica, Modelo: Bakotsu)",
+    "tripulacao": "Governo Mundial",
+    "link": "https://onepiece.fandom.com/pt/wiki/Ethanbaron_V._Nusjuro"
+  },
+  {
+    "nome": "Saint Shepherd Ju Peter",
+    "descricao": "Um dos Cinco Anciões, os mais altos nobres do mundo. É o Deus Guerreiro da Agricultura do Governo Mundial.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Desconhecida (Zoan Mítica, Modelo: Sandworm)",
+    "tripulacao": "Governo Mundial",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shepherd_Ju_Peter"
+  },
+  {
+    "nome": "Saint Figarland Garling",
+    "descricao": "O Comandante Supremo dos Cavaleiros Sagrados do Governo Mundial e uma figura proeminente de God Valley. Um espadachim extremamente poderoso.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Cavaleiros Sagrados",
+    "link": "https://onepiece.fandom.com/pt/wiki/Figarland_Garling"
+  },
+  {
+    "nome": "Limejuice",
+    "descricao": "Um dos oficiais dos Piratas do Ruivo. É um combatente que utiliza um estilo de luta baseado em eletricidade.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Limejuice"
+  },
+  {
+    "nome": "Bonk Punch",
+    "descricao": "Um dos oficiais dos Piratas do Ruivo, que luta ao lado de seu macaco, Monster. É um dos músicos da tripulação.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Bonk_Punch"
+  },
+  {
+    "nome": "Hongo",
+    "descricao": "O médico dos Piratas do Ruivo. É um especialista em desmontar armas e possui grande conhecimento médico.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hongo"
+  },
+  {
+    "nome": "Howling Gab",
+    "descricao": "Um dos oficiais dos Piratas do Ruivo, conhecido por seu rugido poderoso que pode ferir oponentes.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Howling_Gab"
+  },
+  {
+    "nome": "Building Snake",
+    "descricao": "O navegador dos Piratas do Ruivo. Um espadachim acrobático que utiliza um estilo de luta único.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Building_Snake"
+  },
+  {
+    "nome": "Miss Goldenweek",
+    "descricao": "Uma ex-agente da Baroque Works e parceira de Mr. 3. Não possui uma Akuma no Mi, mas usa uma paleta de cores para controlar as emoções dos outros através de uma técnica chamada 'Colors Trap'.",
+    "recompensa": "Nenhuma",
+    "idade": "18 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Miss_Goldenweek"
+  },
+  {
+    "nome": "Mr. 4",
+    "descricao": "Um ex-agente da Baroque Works, parceiro de Miss Merry Christmas. Um homem lento e forte que empunha um taco de beisebol de 4 toneladas.",
+    "recompensa": "Beli 3.200.000",
+    "idade": "30 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Mr._4"
+  },
+  {
+    "nome": "Miss Merry Christmas",
+    "descricao": "Uma ex-agente da Baroque Works, parceira de Mr. 4. Usuária da Mogu Mogu no Mi, que lhe permite se transformar em uma toupeira.",
+    "recompensa": "Nenhuma",
+    "idade": "51 anos (pós-timeskip)",
+    "fruta": "Mogu Mogu no Mi",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Miss_Merry_Christmas"
+  },
+  {
+    "nome": "Mr. 5",
+    "descricao": "Um ex-agente da Baroque Works, parceiro de Miss Valentine. Usuário da Bomu Bomu no Mi, que lhe permite fazer qualquer parte de seu corpo explodir sem se ferir.",
+    "recompensa": "Beli 10.000.000",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Bomu Bomu no Mi",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Mr._5"
+  },
+  {
+    "nome": "Miss Valentine",
+    "descricao": "Uma ex-agente da Baroque Works, parceira de Mr. 5. Usuária da Kiro Kiro no Mi, que lhe permite alterar seu peso de 1 a 10.000 quilos.",
+    "recompensa": "Beli 7.500.000",
+    "idade": "24 anos (pós-timeskip)",
+    "fruta": "Kiro Kiro no Mi",
+    "tripulacao": "Baroque Works",
+    "link": "https://onepiece.fandom.com/pt/wiki/Miss_Valentine"
+  },
+  {
+    "nome": "Gaimon",
+    "descricao": "Um ex-pirata que ficou preso em um baú de tesouro por 20 anos em uma ilha de animais raros. Tornou-se o protetor da ilha e seus habitantes.",
+    "recompensa": "Nenhuma",
+    "idade": "45 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nenhuma",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gaimon"
+  },
+  {
+    "nome": "Shakuyaku (Shakky)",
+    "descricao": "Proprietária do Bar Rip-off de Shakky no Arquipélago de Sabaody e parceira de Silvers Rayleigh. É uma ex-pirata que foi perseguida por Garp no passado.",
+    "recompensa": "Nenhuma",
+    "idade": "64 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nenhuma (Ex-Pirata)",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shakuyaku"
+  },
+  {
+    "nome": "Yorki",
+    "descricao": "O capitão original dos Piratas Rumbar, a tripulação de Brook. Ele contraiu uma doença incurável e tentou deixar a Grand Line com parte da tripulação, mas seu destino é desconhecido.",
+    "recompensa": "Nenhuma",
+    "idade": "Desconhecida (na morte presumida)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Rumbar",
+    "link": "https://onepiece.fandom.com/pt/wiki/Yorki"
+  },
+  {
+    "nome": "Kozuki Sukiyaki",
+    "descricao": "O pai de Kozuki Oden e o shogun do País de Wano antes de Orochi. Ele passou anos disfarçado como o fabricante de espadas Tenguyama Hitetsu.",
+    "recompensa": "Nenhuma",
+    "idade": "81 anos",
+    "fruta": "Nenhuma",
+    "tripulacao": "Clã Kozuki",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kozuki_Sukiyaki"
+  },
+  {
+    "nome": "Satori",
+    "descricao": "Um dos quatro Sacerdotes de Skypiea, servindo sob Enel. Ele era o mestre da 'Provação das Bolas', usando nuvens em forma de bola e Mantra para prever os movimentos dos oponentes.",
+    "recompensa": "Nenhuma",
+    "idade": "27 anos (na derrota)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Exército de Enel",
+    "link": "https://onepiece.fandom.com/pt/wiki/Satori"
+  },
+  {
+    "nome": "Shura",
+    "descricao": "Um dos quatro Sacerdotes de Skypiea. Ele era o mestre da 'Provação dos Fios', usando fios de nuvem quase invisíveis para prender seus inimigos enquanto os atacava com uma lança de calor montado em seu pássaro Fuza.",
+    "recompensa": "Nenhuma",
+    "idade": "33 anos (na derrota)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Exército de Enel",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shura"
+  },
+  {
+    "nome": "Gedatsu",
+    "descricao": "Um dos quatro Sacerdotes de Skypiea. Mestre da 'Provação do Pântano', ele usava nuvens de pântano para prender seus oponentes. É extremamente esquecido, a ponto de não saber como respirar ou cruzar os braços.",
+    "recompensa": "Nenhuma",
+    "idade": "31 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Exército de Enel",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gedatsu"
+  },
+  {
+    "nome": "Tsuru",
+    "descricao": "Vice-Almirante da Marinha e uma das figuras mais respeitadas da sua geração, sendo uma estrategista renomada e amiga próxima de Garp e Sengoku.",
+    "recompensa": "Desconhecida",
+    "idade": "76 anos (pós-timeskip)",
+    "fruta": "Woshu Woshu no Mi (Fruta da Lavagem)",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tsuru"
+  },
+  {
+    "nome": "Vasco Shot",
+    "descricao": "Um dos Dez Capitães Titânicos dos Piratas do Barba Negra, conhecido por sua extrema crueldade e por ter sido um prisioneiro do Nível 6 de Impel Down.",
+    "recompensa": "Desconhecida",
+    "idade": "40 anos (pós-timeskip)",
+    "fruta": "Desconhecida",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vasco_Shot"
+  },
+  {
+    "nome": "Doc Q",
+    "descricao": "O médico dos Piratas do Barba Negra, conhecido por sua aparência doentia e por usar sua Akuma no Mi para infligir doenças em seus oponentes.",
+    "recompensa": "Desconhecida",
+    "idade": "32 anos (pós-timeskip)",
+    "fruta": "Shiku Shiku no Mi (Fruta da Doença)",
+    "tripulacao": "Piratas do Barba Negra",
+    "link": "https://onepiece.fandom.com/pt/wiki/Doc_Q"
+  },
+  {
+    "nome": "Karasu",
+    "descricao": "Um dos quatro comandantes do Exército Revolucionário, liderando o Exército do Norte. Ele tem a habilidade de transformar seu corpo em corvos.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Susu Susu no Mi (Fruta da Fuligem/Pó) - Não confirmada, mas possui poderes de Corvo.",
+    "tripulacao": "Exército Revolucionário",
+    "link": "https://onepiece.fandom.com/pt/wiki/Karasu"
+  },
+  {
+    "nome": "Aramaki (Ryokugyu)",
+    "descricao": "Um dos Almirantes mais recentes da Marinha, que se recusa a comer e demonstra um poder esmagador de manipulação da natureza.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Mori Mori no Mi (Fruta da Floresta)",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Aramaki"
+  },
+  {
+    "nome": "Vista",
+    "descricao": "Comandante da 5ª Divisão dos Piratas do Barba Branca, famoso por ser um espadachim excepcional, conhecido mundialmente como 'Vista da Espada de Flores'.",
+    "recompensa": "Desconhecida",
+    "idade": "47 anos (na Guerra de Marineford)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vista"
+  },
+  {
+    "nome": "Jozu",
+    "descricao": "Comandante da 3ª Divisão dos Piratas do Barba Branca, conhecido como 'Jozu Diamante'. Sua força física e defesa são lendárias no Novo Mundo.",
+    "recompensa": "Desconhecida",
+    "idade": "42 anos (na Guerra de Marineford)",
+    "fruta": "Kira Kira no Mi (Fruta do Brilho)",
+    "tripulacao": "Piratas do Barba Branca",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jozu"
+  },
+  {
+    "nome": "Madam Shyarly",
+    "descricao": "Uma sereia-tubarão e a irmã mais nova de Arlong. Ela é conhecida por suas previsões precisas, incluindo a destruição da Ilha dos Homens-Peixe por Luffy.",
+    "recompensa": "Nenhuma",
+    "idade": "32 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Ilha dos Homens-Peixe",
+    "link": "https://onepiece.fandom.com/pt/wiki/Madam_Shyarly"
+  },
+  {
+    "nome": "Vander Decken IX",
+    "descricao": "Capitão dos Piratas do Holandês Voador. Descendente de um pirata lendário e obcecado por Shirahoshi, utilizando sua Fruta do Diabo para arremessar objetos.",
+    "recompensa": "Beli 100.000.000",
+    "idade": "35 anos (pós-timeskip)",
+    "fruta": "Mato Mato no Mi (Fruta do Alvo)",
+    "tripulacao": "Piratas do Holandês Voador",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vander_Decken_IX"
+  },
+  {
+    "nome": "Vergo",
+    "descricao": "Oficial da Família Donquixote e o primeiro Corazón. Ele se infiltrou na Marinha por anos, tornando-se Vice-Almirante e chefe da base G-5.",
+    "recompensa": "Desconhecida",
+    "idade": "58 anos (na morte)",
+    "fruta": "Nenhuma (Especialista em Haki de corpo inteiro)",
+    "tripulacao": "Família Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Vergo"
+  },
+  {
+    "nome": "Trebol",
+    "descricao": "Um dos três Oficiais Supremos da Família Donquixote. É o mais velho dos oficiais e o responsável por dar a Doflamingo os poderes de sua Akuma no Mi.",
+    "recompensa": "Beli 99.000.000",
+    "idade": "49 anos (pós-timeskip)",
+    "fruta": "Beto Beto no Mi (Fruta do Grude)",
+    "tripulacao": "Família Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Trebol"
+  },
+  {
+    "nome": "Diamante",
+    "descricao": "Um dos três Oficiais Supremos da Família Donquixote, conhecido como 'Heroi da Coliseu'. Sua Fruta do Diabo permite que ele dobre e achate qualquer material.",
+    "recompensa": "Beli 99.000.000",
+    "idade": "45 anos (pós-timeskip)",
+    "fruta": "Hira Hira no Mi (Fruta do Plano)",
+    "tripulacao": "Família Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Diamante"
+  },
+  {
+    "nome": "Pekoms",
+    "descricao": "Um dos tripulantes mais proeminentes dos Piratas da Big Mom, um Mink-leão usuário de Akuma no Mi que trabalha como cobrador de dívidas.",
+    "recompensa": "Beli 330.000.000",
+    "idade": "27 anos (pós-timeskip)",
+    "fruta": "Kame Kame no Mi (Fruta da Tartaruga)",
+    "tripulacao": "Piratas da Big Mom",
+    "link": "https://onepiece.fandom.com/pt/wiki/Pekoms"
+  },
+  {
+    "nome": "Wanda",
+    "descricao": "Uma Mink-cachorro e uma das mosqueteiras de Zou. Leal aos duques Inuarashi e Nekomamushi, ela ajuda os Piratas do Chapéu de Palha na ilha.",
+    "recompensa": "Nenhuma",
+    "idade": "28 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Duchado de Mokomo (Zou)",
+    "link": "https://onepiece.fandom.com/pt/wiki/Wanda"
+  },
+  {
+    "nome": "Rockstar",
+    "descricao": "Um novato pirata que se juntou aos Piratas do Ruivo. Ele foi enviado por Shanks para entregar uma mensagem a Barba Branca no início da história.",
+    "recompensa": "Beli 9.000.000",
+    "idade": "24 anos (pré-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Ruivo",
+    "link": "https://onepiece.fandom.com/pt/wiki/Rockstar"
+  },
+  {
+    "nome": "Gion (Momousagi)",
+    "descricao": "Vice-Almirante da Marinha, uma espadachim poderosa que foi considerada candidata a Almirante durante o Timeskip.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Gion"
+  },
+  {
+    "nome": "Tokikake (Chaton)",
+    "descricao": "Vice-Almirante da Marinha, que, assim como Gion, foi considerado um potencial candidato a Almirante durante o recrutamento mundial.",
+    "recompensa": "Desconhecida",
+    "idade": "Desconhecida",
+    "fruta": "Nenhuma",
+    "tripulacao": "Marinha",
+    "link": "https://onepiece.fandom.com/pt/wiki/Tokikake"
+  },
+  {
+    "nome": "Jean Bart",
+    "descricao": "Ex-capitão pirata, resgatado por Law em Sabaody e agora membro dos Piratas do Coração. Conhecido por seu tamanho e força.",
+    "recompensa": "Beli 50.000.000 (antiga)",
+    "idade": "41 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas do Coração",
+    "link": "https://onepiece.fandom.com/pt/wiki/Jean_Bart"
+  },
+  {
+    "nome": "Shimotsuki Yasuie (Tonoyasu)",
+    "descricao": "Um samurai e ex-Daimyo de Hakumai, conhecido por seu sorriso constante e sua importância como pai adotivo de Toko e mentor de Zoro no passado.",
+    "recompensa": "Nenhuma",
+    "idade": "71 anos (na morte)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Samurais de Wano",
+    "link": "https://onepiece.fandom.com/pt/wiki/Shimotsuki_Yasuie"
+  },
+  {
+    "nome": "Kawamatsu",
+    "descricao": "Um Homem-Peixe-Kappa e um dos Nove Bainhas Vermelhas. Ele é um espadachim lendário e lutador de sumô, jurado a Kozuki Oden.",
+    "recompensa": "Nenhuma",
+    "idade": "52 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Nove Bainhas Vermelhas",
+    "link": "https://onepiece.fandom.com/pt/wiki/Kawamatsu"
+  },
+  {
+    "nome": "Hyougorou",
+    "descricao": "Ex-chefe Yakuza de Wano, conhecido como 'Vovô Hyo'. Ele foi prisioneiro em Udon, mas recuperou sua força e liderança para lutar contra Kaido.",
+    "recompensa": "Nenhuma",
+    "idade": "70 anos (pós-timeskip)",
+    "fruta": "Nenhuma (Mestre em Haki do Armamento)",
+    "tripulacao": "Samurais de Wano",
+    "link": "https://onepiece.fandom.com/pt/wiki/Hyougorou"
+  },
+  {
+    "nome": "Charlotte Chiffon",
+    "descricao": "Uma das filhas de Big Mom e irmã gêmea de Lola. Ela é casada com Capone Bege e crucial na formação da aliança para assassinar Big Mom.",
+    "recompensa": "Desconhecida",
+    "idade": "26 anos (pós-timeskip)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Piratas Fire Tank",
+    "link": "https://onepiece.fandom.com/pt/wiki/Charlotte_Chiffon"
+  },
+  {
+    "nome": "Caribou",
+    "descricao": "Um pirata da Pior Geração conhecido por sua covardia e por tentar capturar Shirahoshi. Sua Akuma no Mi permite que ele se torne um pântano.",
+    "recompensa": "Beli 210.000.000",
+    "idade": "32 anos (pós-timeskip)",
+    "fruta": "Noma Noma no Mi (Fruta do Pântano)",
+    "tripulacao": "Piratas Caribou",
+    "link": "https://onepiece.fandom.com/pt/wiki/Caribou"
+  },
+  {
+    "nome": "Ohm",
+    "descricao": "Um dos quatro sacerdotes de Enel em Skypiea. Ele usa uma espada de ferro com o poder da Nuvem de Ferro e é um mestre em Mantra (Kenbunshoku Haki).",
+    "recompensa": "Desconhecida",
+    "idade": "33 anos (na derrota)",
+    "fruta": "Nenhuma",
+    "tripulacao": "Sacerdotes de Skypiea",
+    "link": "https://onepiece.fandom.com/pt/wiki/Ohm"
+  },
+  {
+    "nome": "Dellinger",
+    "descricao": "Um oficial e assassino da Família Donquixote, conhecido por sua natureza selvagem e instintos de luta, semelhantes aos de um peixe-lutador.",
+    "recompensa": "Beli 15.000.000",
+    "idade": "16 anos (pós-timeskip)",
+    "fruta": "Nenhuma (Possui linhagem de Homem-Peixe-Lutador)",
+    "tripulacao": "Família Donquixote",
+    "link": "https://onepiece.fandom.com/pt/wiki/Dellinger"
+  }
+]

@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Ewert&family=Pirata+One&family=IM+Fell+English:wght@400;700&display=swap'); /* Importa as fontes 'Ewert', 'Pirata One' e 'IM Fell English' do Google Fonts. */
+
+* {
+    box-sizing: border-box; /* Define que a largura e altura dos elementos incluem o padding e a borda, facilitando o layout. */
+}
+
+:root {
+    /* Define variáveis CSS globais (cores temáticas) para serem reutilizadas em todo o arquivo. */
+    --primary-color: #d9452a; /* Cor primária: Vermelho/Laranja, inspirado no Luffy. */
+    --secondary-color: #4a2c2a; /* Cor secundária: Marrom escuro para textos, lembrando madeira. */
+    --tertiary-color: #7a5c5a; /* Cor terciária: Marrom médio para detalhes e textos secundários. */
+    --bg-color: #d1c29b; /* Cor de fundo: Bege claro, simulando um pergaminho ou mapa antigo. */
+    --wood-bg: #744919; /* Cor de madeira: Usada no fundo do cabeçalho e rodapé. */
+    --wood-border: #583422; /* Cor de borda de madeira: Um tom mais escuro para contornos. */
+}
+
+body {
+    margin: 0; /* Remove a margem padrão do navegador para controle total do espaçamento. */
+    background-color: var(--bg-color); /* Define uma cor de fundo sólida como fallback. */
+    color: var(--secondary-color); /* Define a cor padrão do texto para marrom escuro. */
+    font-family: "IM Fell English", serif; /* Define a fonte padrão da página para um estilo clássico de livro. */
+    /* Combina duas texturas: um mapa sutil sobre o papel velho. */
+    background-image: url('https://www.transparenttextures.com/patterns/maps.png'), url('https://www.transparenttextures.com/patterns/old-paper.png');
+    display: flex; /* Usa Flexbox para o layout principal. */
+    flex-direction: column; /* Empilha os elementos (header, main, footer) verticalmente. */
+    min-height: 100vh; /* Garante que o body ocupe pelo menos 100% da altura da tela. */
+}
+
+header {
+    padding: 2rem 1rem; /* Define um espaçamento interno de 2rem (cima/baixo) e 1rem (lados). */
+    display: flex; /* Ativa o Flexbox para alinhar os itens do cabeçalho. */
+    align-items: center; /* Centraliza verticalmente os itens dentro do cabeçalho. */
+    justify-content: space-around; /* Distribui o espaço horizontalmente entre os itens. */
+    position: sticky; /* Faz o cabeçalho "grudar" no topo da tela durante a rolagem. */
+    top: 0; /* Define a posição do cabeçalho no topo quando ele se torna "sticky". */
+    background-color: var(--wood-bg); /* Cor de fundo de madeira. */
+    background-image: url('https://www.transparenttextures.com/patterns/wood-pattern.png'); /* Adiciona uma textura de madeira. */
+    z-index: 10; /* Garante que o cabeçalho fique acima de outros elementos da página. */
+    border-bottom: 5px solid var(--wood-border); /* Cria uma borda inferior espessa com cor de madeira escura. */
+    gap: 1rem; /* Adiciona um espaço entre os elementos flex (título e div de controles). */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra sutil abaixo do cabeçalho para dar profundidade. */
+}
+
+header h1 {
+    font-family: 'Pirata One', cursive; /* Usa a fonte 'Pirata One' para o título principal, mantendo um estilo clássico. */
+    font-size: 3rem; /* Define o tamanho da fonte do título. */
+    margin: 0; /* Remove margens padrão para evitar espaçamentos indesejados. */
+    font-weight: 400; /* Define o peso da fonte como normal. */
+    white-space: nowrap; /* Impede que o título quebre em várias linhas. */
+    color: #f5e8c8; /* Define a cor do texto como a cor de pergaminho, para contraste. */
+    text-shadow: 2px 2px 4px var(--wood-border); /* Adiciona uma sombra ao texto para dar um efeito de relevo. */
+}
+
+header .controls-container {
+    display: flex; /* Organiza os controles em uma linha. */
+    align-items: center; /* Alinha verticalmente os controles. */
+    flex-wrap: wrap; /* Permite que os itens quebrem a linha em telas menores. */
+    justify-content: center; /* Centraliza os controles quando há espaço sobrando. */
+}
+
+header .controls-container input {
+    padding: 0.375rem 0.75rem; /* Define o espaçamento interno do campo de busca. */
+    border-radius: 1rem; /* Arredonda as bordas do campo. */
+    border: 1px solid var(--tertiary-color); /* Define uma borda padrão. */
+    background: var(--bg-color); /* Define a cor de fundo como a de pergaminho. */
+    font-family: "IM Fell English", serif; /* Usa a fonte clássica para o texto digitado. */
+    font-size: 1.2rem; /* Define o tamanho da fonte do texto digitado. */
+    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades ao focar. */
+    width: 20rem; /* Largura do campo de busca, ajustada para caber na linha. */
+    color: var(--secondary-color); /* Define a cor do texto digitado como marrom escuro. */
+    margin-right: .5rem; /* Adiciona uma pequena margem à direita para separar do botão. */
+    border: 2px solid var(--wood-border); /* Define uma borda mais forte com cor de madeira escura. */
+}
+
+header .controls-container input::placeholder {
+    font-size: 1.2rem; /* Define o tamanho da fonte para o texto de placeholder (dica). */
+    font-weight: 400; /* Define o peso da fonte do placeholder. */
+    color: var(--tertiary-color); /* Define a cor do placeholder como marrom médio. */
+    font-style: italic; /* Deixa o texto do placeholder em itálico. */
+}
+
+header .controls-container input:focus {
+    outline: none; /* Remove a borda de foco padrão do navegador. */
+    border-color: var(--primary-color); /* Muda a cor da borda para o vermelho temático ao focar. */
+    box-shadow: 0 0 0 0.2rem rgba(217, 69, 42, 0.5); /* Adiciona um brilho ao redor do campo quando focado. */
+}
+
+#botao-busca, #botao-sem-fruta, #botao-mostrar-todos, #botao-ordenar-recompensa {
+    padding: 0.6rem 1rem; /* Espaçamento interno dos botões, ainda mais reduzido. */
+    border-radius: 5px; /* Deixa as bordas levemente arredondadas, como uma placa. */
+    border: none; /* Remove a borda padrão do navegador. */
+    cursor: pointer; /* Muda o cursor para uma mão para indicar que é clicável. */
+    font-family: inherit; /* Usa a mesma família de fontes do elemento pai (body). */
+    font-weight: 700; /* Deixa o texto do botão em negrito. */
+    font-size: 0.8rem; /* Tamanho da fonte do botão, levemente menor. */
+    white-space: nowrap; /* Impede que o texto do botão quebre em várias linhas. */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Adiciona uma transição suave para as cores. */
+    background-color: var(--primary-color); /* Define a cor de fundo como o vermelho temático. */
+    color: var(--bg-color); /* Define a cor do texto como a cor de pergaminho. */
+    border: 2px solid var(--wood-border); /* Adiciona uma borda de madeira escura. */
+    text-transform: uppercase; /* Transforma o texto do botão para maiúsculas. */
+}
+
+#botao-busca:hover, #botao-sem-fruta:hover, #botao-mostrar-todos:hover, #botao-ordenar-recompensa:hover {
+    background-color: var(--wood-border); /* Escurece o fundo do botão ao passar o mouse. */
+    color: var(--bg-color); /* Mantém a cor do texto clara para contraste. */
+    box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Adiciona uma sombra sutil ao redor do botão. */
+}
+
+#botao-busca:active, #botao-sem-fruta:active, #botao-mostrar-todos:active, #botao-ordenar-recompensa:active {
+    transform: translateY(2px); /* Cria um efeito de "pressionar" o botão ao clicar. */
+}
+
+#filtro-tripulacao {
+    padding: 0.6rem; /* Espaçamento interno do menu de filtro, ainda mais reduzido. */
+    border-radius: 5px; /* Arredonda as bordas. */
+    border: 2px solid var(--wood-border); /* Adiciona uma borda de madeira escura. */
+    background-color: var(--bg-color); /* Define o fundo como a cor de pergaminho. */
+    color: var(--secondary-color); /* Define a cor do texto como marrom escuro. */
+    font-family: inherit; /* Usa a mesma fonte do restante da página. */
+    font-size: 0.8rem; /* Tamanho da fonte, levemente menor para consistência. */
+    font-weight: 700; /* Deixa o texto em negrito. */
+    text-transform: uppercase; /* Transforma o texto para maiúsculas. */
+    cursor: pointer; /* Mostra o cursor de mão para indicar interatividade. */
+    margin-left: 0.5rem; /* Adiciona uma margem à esquerda para separar dos outros botões. */
+}
+
+#filtro-tripulacao:focus {
+    outline: none; /* Remove a borda de foco padrão. */
+    border-color: var(--primary-color); /* Muda a cor da borda para vermelho ao focar. */
+    box-shadow: 0 0 0 0.2rem rgba(217, 69, 42, 0.5); /* Adiciona um brilho ao redor quando focado. */
+}
+
+#contador-personagens {
+    color: var(--bg-color); /* Cor de pergaminho, para combinar com o cabeçalho. */
+    font-family: 'Pirata One', cursive; /* Fonte temática. */
+    font-size: 1.2rem; /* Tamanho da fonte. */
+    margin: 0 0 0 1rem; /* Margem para separar dos outros controles. */
+    text-shadow: 1px 1px 2px var(--wood-border); /* Sombra para legibilidade. */
+    white-space: nowrap; /* Impede que o texto quebre. */
+}
+
+main {
+    max-width: 80rem; /* Define a largura máxima para o conteúdo principal, evitando que fique muito largo em telas grandes. */
+    margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente na página. */
+    margin-top: 3rem; /* Adiciona uma margem no topo para separar do cabeçalho. */
+    padding-bottom: 3rem; /* Adiciona um espaçamento na parte inferior para que o rodapé não cubra o último card. */
+    flex-grow: 1; /* Faz com que o conteúdo principal cresça para ocupar o espaço disponível, empurrando o rodapé para baixo. */
+}
+
+/* Estilização da Barra de Rolagem (para navegadores WebKit como Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 12px; /* Define a largura da barra de rolagem. */
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-color); /* Define a cor do trilho da barra de rolagem. */
+    border-left: 1px solid var(--wood-border); /* Adiciona uma linha sutil à esquerda do trilho. */
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--wood-bg); /* Define a cor da parte móvel (polegar) da barra. */
+    border-radius: 6px; /* Arredonda as bordas do polegar. */
+    border: 2px solid var(--wood-border); /* Adiciona uma borda escura ao polegar. */
+}
+
+article {
+    position: relative; /* Define um contexto de posicionamento para o pseudo-elemento '::after'. */
+    background: none; /* Remove qualquer cor de fundo padrão. */
+    border-radius: 0; /* Remove o arredondamento das bordas. */
+    padding: 1.5rem 2rem; /* Define o espaçamento interno dos cards. */
+    margin-bottom: 2rem; /* Adiciona uma margem na parte inferior para separar os cards. */
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease; /* Define uma transição suave para os efeitos de hover. */
+    border: 3px solid var(--wood-border); /* Cria uma borda de madeira escura ao redor do card. */
+    background-color: rgba(255, 255, 255, 0.1); /* Adiciona um fundo levemente transparente para dar textura. */
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.2); /* Adiciona uma sombra para dar um efeito de profundidade ao card. */
+}
+
+/* Adiciona um selo de "WANTED" em cada card para dar mais autenticidade */
+article::after {
+    content: ''; /* Conteúdo vazio, pois usaremos uma imagem de fundo. */
+    position: absolute; /* Posicionamento absoluto em relação ao card. */
+    top: 50%; /* Centraliza verticalmente. */
+    left: 50%; /* Centraliza horizontalmente. */
+    transform: translate(-50%, -50%) rotate(-15deg); /* Ajusta a posição central e rotaciona o selo. */
+    width: 200px; /* Largura do selo. */
+    height: 200px; /* Altura do selo. */
+    background-image: url('https://www.pngkey.com/png/full/3-39999_one-piece-wanted-poster-logo-wanted-one-piece.png'); /* URL da imagem do selo. */
+    background-size: contain; /* Garante que a imagem caiba completamente dentro do espaço definido. */
+    background-repeat: no-repeat; /* Evita a repetição da imagem. */
+    opacity: 0.1; /* Deixa o selo bem sutil, como uma marca d'água. */
+    z-index: -1; /* Coloca o selo atrás do texto do card, para não atrapalhar a leitura. */
+}
+
+article:hover {
+    transform: scale(1.02); /* Aumenta levemente o tamanho do card ao passar o mouse. */
+    cursor: pointer; /* Muda o cursor para uma mão para indicar que o card é interativo. */
+    border-color: var(--primary-color); /* Muda a cor da borda para vermelho ao passar o mouse. */
+    box-shadow: 8px 8px 20px rgba(0,0,0,0.3); /* Aumenta a sombra para dar um efeito de "flutuar". */
+}
+
+article h2 {
+    font-family: 'Ewert', cursive; /* Usa a nova fonte 'Ewert' para o nome do personagem, reforçando a estética de cartaz. */
+    margin-top: 0; /* Remove a margem superior padrão do h2. */
+    font-weight: 400; /* Define o peso da fonte como normal. */
+    font-size: 2.5rem; /* Define o tamanho da fonte do nome. */
+    border-bottom: none; /* Remove qualquer borda inferior. */
+    padding-bottom: 0; /* Remove qualquer espaçamento inferior. */
+    margin-bottom: 0.25rem; /* Adiciona uma pequena margem abaixo do nome. */
+    color: var(--primary-color); /* Define a cor do nome como vermelho. */
+    text-shadow: 1px 1px 2px var(--wood-border); /* Adiciona uma sombra para destacar o nome. */
+}
+
+article p {
+    margin: 0.5rem 0; /* Define as margens verticais para os parágrafos. */
+    line-height: 1.6; /* Aumenta o espaçamento entre as linhas para melhor legibilidade. */
+    font-size: 1.1rem; /* Define o tamanho da fonte para a descrição e outros textos. */
+    color: var(--secondary-color); /* Define a cor do texto como marrom escuro. */
+}
+
+article p strong {
+    color: var(--tertiary-color); /* Define a cor dos rótulos (ex: "Fruta:") como marrom médio. */
+    font-weight: 700; /* Deixa os rótulos em negrito. */
+}
+
+article a {
+    color: var(--primary-color); /* Define a cor do link "Saiba mais" como vermelho. */
+    text-decoration: none; /* Remove o sublinhado padrão do link. */
+    font-weight: 200; /* Define um peso de fonte mais leve para o link. */
+}
+
+article a:hover {
+    text-decoration: underline; /* Adiciona um sublinhado ao link quando o mouse está sobre ele. */
+}
+
+.footer {
+    width: 100%; /* Faz o rodapé ocupar toda a largura da tela. */
+    color: var(--bg-color); /* Define a cor do texto do rodapé como a cor de pergaminho. */
+    background-color: var(--wood-bg); /* Cor de fundo de madeira. */
+    background-image: url('https://www.transparenttextures.com/patterns/wood-pattern.png'); /* Adiciona uma textura de madeira. */
+    padding: 15px 20px; /* Adiciona espaçamento interno. */
+    border-top: 3px solid var(--wood-border); /* Adiciona uma borda superior de madeira escura. */
+    font-size: 0.8rem; /* Define um tamanho de fonte menor para o texto do rodapé. */
+}
+
+.footer-content {
+    display: flex; /* Organiza o conteúdo do rodapé. */
+    flex-direction: column; /* Empilha o texto e os links verticalmente. */
+    align-items: center; /* Centraliza horizontalmente o conteúdo. */
+    gap: 10px; /* Adiciona um espaço entre o texto e a lista de links. */
+}
+
+.footer-text {
+    margin: 0; /* Remove margens padrão. */
+    text-align: center; /* Centraliza o texto. */
+    opacity: 0.8; /* Deixa o texto levemente transparente para um visual mais suave. */
+}
+
+.footer-links {
+    list-style: none; /* Remove os pontos de marcador da lista. */
+    display: flex; /* Ativa o Flexbox para alinhar os links. */
+    flex-wrap: wrap; /* Permite que os links quebrem para a próxima linha em telas menores. */
+    justify-content: center; /* Centraliza os links horizontalmente. */
+    gap: 15px; /* Adiciona um espaçamento entre cada link. */
+    padding: 0; /* Remove o padding padrão da lista. */
+    margin: 0; /* Remove a margem padrão da lista. */
+}
+
+.footer-links a {
+    color: var(--bg-color); /* Define a cor dos links do rodapé. */
+    text-decoration: none; /* Remove o sublinhado padrão. */
+    transition: color 0.2s; /* Adiciona uma transição suave para a cor do link no hover. */
+}
+
+.footer-links a:hover {
+    color: var(--primary-color); /* Muda a cor do link para vermelho ao passar o mouse. */
+}
+
+.recompensa-p {
+    font-family: 'Ewert', cursive; /* Usa a nova fonte 'Ewert' para o valor da recompensa, mantendo a consistência. */
+    font-size: 1.3rem; /* Define um tamanho de fonte um pouco maior para a recompensa. */
+    color: var(--secondary-color); /* Define a cor do texto como marrom escuro. */
+}
+
+.recompensa-p strong {
+    font-family: "IM Fell English", serif; /* Sobrescreve a fonte apenas para o rótulo "Recompensa:". */
+    font-weight: 700; /* Mantém o rótulo em negrito, como os outros. */
+}
+
+@media (max-width: 768px) {
+    /* Inicia um bloco de regras para telas com largura máxima de 768px (tablets e celulares). */
+    header {
+        flex-direction: column; /* Empilha os itens do cabeçalho verticalmente. */
+        padding: 1rem; /* Reduz o espaçamento interno do cabeçalho. */
+    }
+
+    main {
+        padding: 0 1rem; /* Adiciona um espaçamento lateral ao conteúdo principal. */
+    }
+
+    article:hover {
+        transform: none; /* Remove o efeito de zoom nos cards em dispositivos de toque, que pode ser problemático. */
+    }
+}
+
+@media (max-width: 480px) {
+    /* Inicia um bloco de regras para telas com largura máxima de 480px (celulares). */
+    header .controls-container input, header .controls-container input::placeholder {
+        font-size: 1rem; /* Reduz o tamanho da fonte do campo de busca e seu placeholder. */
+    }
+
+    article h2 {
+        font-size: 1.3rem; /* Reduz o tamanho do nome do personagem nos cards. */
+    }
+
+    .footer {
+        display: none; /* Oculta o rodapé em telas muito pequenas para economizar espaço. */
+    }
+}
