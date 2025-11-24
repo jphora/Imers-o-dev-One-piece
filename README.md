@@ -14,6 +14,7 @@ Filtra personagens por tripulação ou afiliação através de um menu populado 
 Exibe apenas personagens que não possuem Akuma no Mi com um único clique.
 
 Ordenação Inteligente: Classifica os personagens atualmente exibidos pela recompensa, do maior para o menor.
+
 Contador de Personagens: Mostra dinamicamente quantos personagens correspondem aos filtros aplicados.
 
 Design Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em desktops, tablets e celulares.
@@ -21,6 +22,7 @@ Design Responsivo: A interface se adapta a diferentes tamanhos de tela, garantin
 Links Externos: Cada card contém um link que direciona para a página do personagem na One Piece Wiki para informações ainda mais detalhadas.
 
 🛠️ Tecnologias Utilizadas
+
 Este projeto foi construído utilizando tecnologias web fundamentais, com foco em boas práticas e uma experiência de usuário fluida.
 
 HTML5:
